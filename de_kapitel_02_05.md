@@ -1,6 +1,6 @@
 ##Tabelle ”classes” 
 
-Diese Tabelle beinhaltet alle Altersklassen, in Kombination mit dem Geschlecht, die bei diesem Wettkampf antreten werden.
+Diese Tabelle beinhaltet alle Altersklassen, in Kombination mit dem Geschlecht, die bei diesem Wettkampf antreten können/werden.
 
 **Schlüsselfelder**
 
