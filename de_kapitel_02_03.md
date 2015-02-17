@@ -23,3 +23,7 @@ Diese Tabelle beinhaltet die Durchgänge eines Wettkampfes. Sie finden nur zu ve
 * number_of_targets
 
 * starter_per_target
+
+**Einschränkungen**
+
+* Es wird davon ausgegangen, dass ein Durchgang nur an einem Ort stattfindet.
