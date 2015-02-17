@@ -9,19 +9,14 @@ Diese Tabelle beinhaltet die Durchgänge eines Wettkampfes. Sie finden nur zu ve
 **Schlüsselfelder**
 
 * event_id
-
 * session_id
 
 **Felder**
 
 * title_short
-
 * title
-
 * venue
-
 * number_of_targets
-
 * starter_per_target
 
 **Einschränkungen**
