@@ -9,13 +9,10 @@ So ist es möglich Texte und Bilder zu hinterlegen.
 **Schüsselfelder**
 
 * event_id
-
 * information_id
 
 **Felder**
 
 * title_short
-
 * content_type
-
 * content
