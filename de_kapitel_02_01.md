@@ -1,4 +1,4 @@
-#Tabelle ”events”
+##Tabelle ”events”
 
 Die Tabelle ”events” enthält alle allgemeinen Informationen über den Wettkampf. Details wie ”Durchgänge”, ”Zeitplan innerhalb der Durchgänge”, ”Zusätzliche Texte, Hinweise, Bilder” werden in separaten Tabellen eingetragen.
 
@@ -8,12 +8,12 @@ Angaben über die Dauer des Wettkampfes finden sich in den Zeitplänen zu den Du
 
 *Schlüsselfelder*
 
-* event_id ([sub:event_id])
+* event_id
 
 *Felder*
 
-* title_short ([sub:title_short])
+* title_short
 
-* title ([sub:title])
+* title
 
-* foreign_key_divider ([sub:foreign_key_divider])
+* foreign_key_divider
