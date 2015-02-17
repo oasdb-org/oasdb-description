@@ -4,3 +4,4 @@ In den Tabellen Wettkampfvorbereitung werden die Regeln des Wettkampfes festgele
 
 * [Tabelle "events"](https://github.com/schwotz/oasdb/blob/master/de_kapitel_02_01.md)
 * [Tabelle "event_information"] (https://github.com/schwotz/oasdb/blob/master/de_kapitel_02_02.md)
+* [Tabelle "sessions"] (de_kapitel_02_03.md)
