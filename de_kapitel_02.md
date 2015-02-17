@@ -5,3 +5,4 @@ In den Tabellen Wettkampfvorbereitung werden die Regeln des Wettkampfes festgele
 * [Tabelle "events"](de_kapitel_02_01.md)
 * [Tabelle "event_information"] (de_kapitel_02_02.md)
 * [Tabelle "sessions"] (de_kapitel_02_03.md)
+* [Tabelle ”sessions_timetable”] (de_kapitel_02_04.md)
