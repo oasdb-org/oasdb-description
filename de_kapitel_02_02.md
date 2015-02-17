@@ -6,13 +6,13 @@ Für jede Zusatzinformation wird eine neuer Datensatz eingerichtet. Neben der ei
 
 So ist es möglich Texte und Bilder zu hinterlegen.
 
-*Schüsselfelder*
+**Schüsselfelder**
 
 * event_id
 
 * information_id
 
-*Felder*
+**Felder**
 
 * title_short
 
