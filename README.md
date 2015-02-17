@@ -1,5 +1,5 @@
 # oasdb
-OpenArcheryScoreDatabase
+OpenArcheryScoreDatabase - Description
 
 The aim of the project OpenArcheryScoreDatabase (oasdb) to describe a sql-database to save information around a archery competition.
 
