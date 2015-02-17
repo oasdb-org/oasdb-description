@@ -6,11 +6,11 @@ Angaben über Austragungsort (venue) wurden bewusst in die Tabelle ”session”
 
 Angaben über die Dauer des Wettkampfes finden sich in den Zeitplänen zu den Durchgängen ([sub:Tabelle-”sessions_timetable”]). Die Dauer eines Wettkampfes ergibt sich demnach aus dem ersten und dem letzten Ereignis innerhalb eines Wettkampfes.
 
-*Schlüsselfelder*
+**Schlüsselfelder**
 
 * event_id
 
-*Felder*
+**Felder**
 
 * title_short
 
