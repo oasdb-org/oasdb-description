@@ -13,7 +13,5 @@ Angaben über die Dauer des Wettkampfes finden sich in den Zeitplänen zu den Du
 **Felder**
 
 * title_short
-
 * title
-
 * foreign_key_divider
