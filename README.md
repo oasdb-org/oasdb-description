@@ -8,4 +8,5 @@ Der Kern des Projektes ist somit die Beschreibung einer Struktur.
 Die in der Beschreibung verwendeten Begriffe orientieren sich an der englischen Version des WorldArchery Regelwerkes [http://www.worldarchery.org/HOME/Rules/Constitution-Rules](http://www.worldarchery.org/HOME/Rules/Constitution-Rules).
 
 Die Beschreibung entsteht vorerst in Deutsch und wird ins Englische übertragen. Ziel ist es die Versionen inhaltlich identisch zu halten.
+
 ---
