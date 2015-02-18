@@ -21,8 +21,13 @@ The focus is on the structure of the database and whose description.
 * [01 Allgemeines](de/kapitel_01.md)
 * [02 Tabellen - Wettkampfvorbereitung](de/kapitel_02.md)
 * [03 Tabellen - Teilnehmerverwaltung](de_kapitel_03.md)
-* [04 Tabellen - Startplatzvergabe](de_kapitel_04.md)
-* [05 Tabellen - Ergebniserfassung](de_kapitel_05.md)
+* [04 Tabellen - Startplatzvergabe](de/kapitel_04.md)
+* [05 Tabellen - Ergebniserfassung](de/kapitel_05.md)
+* [06](de/kapitel_06.md)
+* [07](de/kapitel_07.md)
+* [08](de/kapitel_08.md)
+* [09](de/kapitel_09.md)
+* [10 Quellen](de/kapitel_10.md)
 
 ##Weitere Projekte
 * ["oasdb-mysql" Die Umsetzung der Vorlagen als mySQL](https://github.com/oasdb-org/oasdb-mysql)
