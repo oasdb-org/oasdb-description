@@ -2,17 +2,17 @@
 
 In dieser Tabelle wird festgelegt welche Entfernungen und Auflagengrößen geschossen werden.
 
-**Schlüsselfelder
+**Schlüsselfelder**
 
-* event_id ([sub:event_id])
-* distance_id ([sub:distance_id])
-* class_id ([sub:class_id])
-* division_id ([sub:division_id])
+* event_id ()
+* distance_id ()
+* class_id ()
+* division_id ()
 
 **Felder**
 
-* distance ([sub:distance])
-* face ([sub:face])
+* distance ()
+* face ()
 
 **Einschränkungen**
 
