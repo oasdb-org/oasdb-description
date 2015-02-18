@@ -2,13 +2,14 @@
 
 In diesem Schritt werden die Personen eingetragen die am Wettkampf beteiligt sind. Gleichzeitig werden die Vereine/Verbände und Länder angelegt aus denen die Teilnehmer kommen.
 
+Die Vergabe der Startplätze wurde bewusst in einen nächsten Schritt verlegt, da bei bestimmten Wettkmapfformen, die Teilnehmer ständig die Startplätze wechseln (*z.B. Ausschreidungsrunde oder Liga*).
+
 ###Einzelwettbewerb
 Den Wettkampfteilnehmern wird eine der Kategorien zugeordnet, die im vorherigen Schritt "[Tabellen - Wettkampfvorbereitung](de_kapitel_02.md)" eingetragen wurden.
-Die Teilnehmer erhalten Ihren Startplatz.
 Wenn Mannschaftswertungen geplant sind so werden diese in "club_teams" hinterlegt und die Einzestarter werden diesen zugeordnet.
 
 ###Mannschaftwettbewerb (LIGA,Mannschaftwettbewerb)
-Es werden Mannschaften (teams) gebilden. Den Teams werden die Mitlglieder zugeordnet und das Team erhält einen Startplatz.
+Es werden Mannschaften (teams) gebilden. Den Mannschaften werden die Mitglieder zugeordnet.
 
 * [Tabelle ”accosiations”](de_kapitel_03_01.md)
 * [Tabelle ”countries”](de_kapitel_03_02.md)
