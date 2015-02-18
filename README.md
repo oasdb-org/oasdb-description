@@ -18,8 +18,8 @@ The focus is on the structure of the database and whose description.
 ---
 
 ##Deutsche Version der Beschreibung
-* [01 Allgemeines](de_kapitel_01.md)
-* [02 Tabellen - Wettkampfvorbereitung](de_kapitel_02.md)
+* [01 Allgemeines](de/kapitel_01.md)
+* [02 Tabellen - Wettkampfvorbereitung](de/kapitel_02.md)
 * [03 Tabellen - Teilnehmerverwaltung](de_kapitel_03.md)
 * [04 Tabellen - Startplatzvergabe](de_kapitel_04.md)
 * [05 Tabellen - Ergebniserfassung](de_kapitel_05.md)
