@@ -3,7 +3,7 @@
 In diesem Schritt werden die Personen eingetragen die am Wettkampf beteiligt sind. Gleichzeitig werden die Vereine/Verbände und Länder angelegt aus denen die Teilnehmer kommen.
 
 ###Einzelwettbewerb
-Den Wettkampfteilnehmern wird eine der Kategorien zugeordnet, die im vorherigen Schritt "[Tabellen - Wettkampfvorbereitung](de_kapitel_03_01.md)" eingetragen wurden.
+Den Wettkampfteilnehmern wird eine der Kategorien zugeordnet, die im vorherigen Schritt "[Tabellen - Wettkampfvorbereitung](de_kapitel_02.md)" eingetragen wurden.
 Die Teilnehmer erhalten Ihren Startplatz.
 Wenn Mannschaftswertungen geplant sind so werden diese in "club_teams" hinterlegt und die Einzestarter werden diesen zugeordnet.
 
