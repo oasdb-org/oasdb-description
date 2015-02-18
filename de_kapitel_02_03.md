@@ -3,7 +3,6 @@
 Diese Tabelle beinhaltet die Durchgänge eines Wettkampfes. Sie finden nur zu verschiedenen Zeiten oder an verschiedenen Orten satt. Gründe für die Einrichtung von mehreren Durchgängen können sein:
 
 * Es gibt mehr Starter als Startplätze.
-
 * Es gibt Termine ”Vorschießen” oder ”Nachschießen”.
 
 **Schlüsselfelder**
