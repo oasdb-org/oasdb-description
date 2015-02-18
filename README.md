@@ -25,4 +25,4 @@ The focus is on the structure of the database and whose description.
 * 
 
 ##Weitere Projekte
-* ["oasdb-mysql" Die Umsetzung der Vorlagen als mySQL"](https://github.com/oasdb-org/oasdb-mysql)
+* ["oasdb-mysql" Die Umsetzung der Vorlagen als mySQL](https://github.com/oasdb-org/oasdb-mysql)
