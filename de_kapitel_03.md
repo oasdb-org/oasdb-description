@@ -5,8 +5,8 @@ In diesem Schritt werden die Personen eingetragen die am Wettkampf beteiligt sin
 Die Vergabe der Startplätze wurde bewusst in einen nächsten Schritt verlegt, da bei bestimmten Wettkmapfformen, die Teilnehmer ständig die Startplätze wechseln (*z.B. Ausschreidungsrunde oder Liga*).
 
 ###Einzelwettbewerb
-Den Wettkampfteilnehmern wird eine der Kategorien zugeordnet, die im vorherigen Schritt "[Tabellen - Wettkampfvorbereitung](de_kapitel_02.md)" eingetragen wurden.
-Wenn Mannschaftswertungen geplant sind so werden diese in "club_teams" hinterlegt und die Einzestarter werden diesen zugeordnet.
+Den Wettkampfteilnehmern wird eine der Kategorien zugeordnet, die im vorherigen Schritt "[Tabellen - Wettkampfvorbereitung](de_kapitel_02.md)" eingetragen wurden. Tritt ein Teilnehmer in zwei (oder mehr) Kategorien an so erhält er zwei Startnummern.
+Sind Mannschaftswertungen geplant so werden diese in "club_teams" hinterlegt und die Einzestarter werden diesen zugeordnet.
 
 ###Mannschaftwettbewerb (LIGA,Mannschaftwettbewerb)
 Es werden Mannschaften (teams) gebilden. Den Mannschaften werden die Mitglieder zugeordnet.
