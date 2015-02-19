@@ -2,7 +2,7 @@
 
 Diese Tabelle beinhaltet die Durchgänge eines Wettkampfes. 
 
-Als Durchgang wird ein Abschnitt in einem Wettkampf angesehen nachdem es ein End- oder ein Zwischenergebnis gibt. Es wird davon ausgegangen, dass ein Durchgang an einem Ort stattfindet.
+Als Durchgang wird ein Abschnitt in einem Wettkampf angesehen der ohne Änderung der Wettkampfform durchgeführt wird und nachdem es ein End- oder ein Zwischenergebnis gibt. Es wird davon ausgegangen, dass ein Durchgang an einem Ort stattfindet.
 
 Gründe für die Einrichtung von mehreren Durchgängen können sein:
 
