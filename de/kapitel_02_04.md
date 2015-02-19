@@ -1,22 +1,16 @@
-##Tabelle ”sessions_parts”
+##Tabelle ”sessions_timetable”
 
-Dies Tabelle beinhaltet die Teile eines Durchganges. 
+Diese Tabelle beinhaltet den Zeitplan je Durchgang. 
 
-Als Teil eines Durchganges wird ein Zeitabschnitt angesehen indem durchgängiger Wettkampfbetrieb stattfindet. Zwischen den Teilen findet in der Regel eine Pause statt.
+Zum Beispiel
 
-Das können sein
-* 720 Runde
-    * 1.Teil
-    * 2.Teil
-* 1440 Runde
-    * 1.Entfernung
-    * 2.Entfernung
-    * 3.Entfernung
-    * 4.Entfernung
-* Feldrunde
-    * Unbekannt Entfernung
-    * Bekannte Entfernung
+* 10:00 Training 
+* 10:45 Wettkampf - 1. Entfernung 
+* 12:00 Pause 
+* 13:00 Wettkampf - 2. Entfernung 
+* 15:00 Siegerehrung 
 
+Bei kleinen Wettkämpfen wird man sicher mit zwei Einträgen ”Training” und ”Wettkampf” auskommen. 
 
 **Schlüsselfelder**
 
