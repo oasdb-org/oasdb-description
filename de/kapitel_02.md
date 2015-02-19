@@ -1,11 +1,13 @@
 #Tabellen - Wettkampfvorbereitung
 
-In den Tabellen Wettkampfvorbereitung werden die Regeln des Wettkampfes festgelegt. Aus diesen Angaben muss sich eine Ausschreibung / Einladung erstellen lassen.
+In den Tabellen "Wettkampfvorbereitung" werden die Rahmenbedingungen eines des Wettkampfes festgelegt. 
+
+Aus diesen Angaben muss sich eine Ausschreibung / Einladung erstellen lassen.
 
 * [Tabelle "events"](kapitel_02_01.md)
-* [Tabelle "event_information"] (kapitel_02_02.md)
+* [Tabelle "events_information"] (kapitel_02_02.md)
 * [Tabelle "sessions"] (kapitel_02_03.md)
-* [Tabelle ”session_parts”] (kapitel_02_04.md)
+* [Tabelle ”sessions_parts”] (kapitel_02_04.md)
 * [Tabelle ”classes”] (kapitel_02_05.md)
 * [Tabelle ”divisions”] (kapitel_02_06.md)
 * [Tabelle ”categories”] (kapitel_02_07.md)
