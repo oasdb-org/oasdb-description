@@ -8,7 +8,7 @@ Aus diesen Angaben muss sich eine Ausschreibung / Einladung erstellen lassen.
 * [Tabelle "events_information"] (kapitel_02_02.md)
 * [Tabelle "sessions"] (kapitel_02_03.md)
 * [Tabelle ”sessions_timetable”] (kapitel_02_04.md)
-* 
+
 Divisions
 * [Tabelle ”classes”] (kapitel_02_05.md)
 * [Tabelle ”divisions”] (kapitel_02_06.md)
