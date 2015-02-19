@@ -1,9 +1,14 @@
 ##Tabelle ”sessions”
 
-Diese Tabelle beinhaltet die Durchgänge eines Wettkampfes. Sie finden nur zu verschiedenen Zeiten oder an verschiedenen Orten satt. Gründe für die Einrichtung von mehreren Durchgängen können sein:
+Diese Tabelle beinhaltet die Durchgänge eines Wettkampfes. 
 
-* Es gibt mehr Starter als Startplätze.
-* Es gibt Termine ”Vorschießen” oder ”Nachschießen”.
+Als Durchgang wird ein Abschnitt in einem Wettkampf angesehen nachdem es ein End- oder ein Zwischenergebnis gibt. Es wird davon ausgegangen, dass ein Durchgang an einem Ort stattfindet.
+
+Gründe für die Einrichtung von mehreren Durchgängen können sein:
+
+* Es gibt mehr Starter als Startplätze. Die Starter, die in einer Kategorie um eine Plazierung kämpfen treten im gleichen Durchgang an.
+* Es gibt Termine "Hauptwettkampf","Vorschießen" und/oder "Nachschießen".
+* Der Wettkampf findet in mehreren Phasen statt. Es gibt "Qualifikationsrunde", "Ausscheidungsrunde", "Finale".
 
 **Schlüsselfelder**
 
@@ -17,7 +22,4 @@ Diese Tabelle beinhaltet die Durchgänge eines Wettkampfes. Sie finden nur zu ve
 * venue
 * number_of_targets
 * starter_per_target
-
-**Einschränkungen**
-
-* Es wird davon ausgegangen, dass ein Durchgang nur an einem Ort stattfindet.
+* rules
