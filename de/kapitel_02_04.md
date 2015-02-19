@@ -1,6 +1,6 @@
 ##Tabelle ”sessions_parts”
 
-Dies Tabelle beinhaltet die Teile eines Druchganges. 
+Dies Tabelle beinhaltet die Teile eines Durchganges. 
 
 Als Teil eines Durchganges wird ein Zeitabschnitt angesehen indem durchgängiger Wettkampfbetrieb stattfindet. Zwischen den Teilen findet in der Regel eine Pause statt.
 
