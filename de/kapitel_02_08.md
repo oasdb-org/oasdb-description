@@ -1,6 +1,6 @@
 ##Tabelle ”rounds” 
 
-Die Tabelle beinhaltet die Runden, die geschossen werden können. Eine Erläuterung des ist [hier](kapitel_08_runden.md) zu finden.
+Die Tabelle beinhaltet die Runden, die geschossen werden können. Eine Erläuterung des ist [hier](kapitel_08_runde.md) zu finden.
 
 In dieser Tabelle wird nur ein Name für die Runden festgelegt. Die Festlegung der Entferungen und Scheibenauflagen geschieht in der Tabelle "".
 
