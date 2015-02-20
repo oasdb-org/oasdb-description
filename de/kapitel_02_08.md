@@ -1,11 +1,13 @@
-##Tabelle ”distances” 
+##Tabelle ”rounds” 
 
-Die Tabelle beinhaltet die Entfernungen die geschossen werden. Das Wort ”Entfernung” meint in diesem Zusammenhang einen Anzahl von Passen die ohne Pause geschossen werden.
+Die Tabelle beinhaltet die Runden, die geschossen werden können. Eine Erläuterung des ist [hier](kapitel_08_runden.md) zu finden.
+
+In dieser Tabelle wird nur ein Name für die Runden festgelegt. Die Festlegung der Entferungen und Scheibenauflagen geschieht in der Tabelle "".
 
 **Schlüsselfelder**
 
 * event_id
-* distance_id 
+* round_id 
 
 **Felder**
 
