@@ -1,6 +1,8 @@
 ##Runde
 
-Der Begriff Runde wird mehrfach verwand.
+Der Begriff "Runde" wird in mehreren Bedeutungen verwand. Die doppelte Bedeutung ist in den Sprachgebrauch übergegangen was man anderen Veröffentlichungen nachlesen kann ([WA-Regeln Buch 2 Artikel 4.5](http://rulebook.worldarchery.org/PDF/Official/2015-01-01/EN-Book2.pdf) , ...). 
+
+Es muss daher vorsichtig unterscheiden werden in welchem Zusammenhang "Runden" genutzt wird.
 
 ### Wettkampfform
 Zum einen wird mit damit eine Wettkampfform bezeichnet wie "720'er Runde", "Feldbogenrunde", usw. .
