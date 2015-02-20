@@ -1,8 +1,8 @@
 ##Runde
 
-Der Begriff "Runde" wird in mehreren Bedeutungen verwand. Die doppelte Bedeutung ist in den Sprachgebrauch übergegangen was man anderen Veröffentlichungen nachlesen kann ([WA-Regeln Buch 2 Artikel 4.5](http://rulebook.worldarchery.org/PDF/Official/2015-01-01/EN-Book2.pdf) , [DBSV-Wettkampfordnung](http://www.dbsv1959.de/index.php/sport/wettkampfordnung),[Sport-Definitionen](http://www.sportsdefinitions.com/archery/Round.html)). 
+Der Begriff "Runde" wird in mehreren Bedeutungen verwand. Die mehrfache Bedeutung ist in den Sprachgebrauch übergegangen was man verschiedenen Veröffentlichungen nachlesen kann (z.B. [WA-Regeln Buch 2 Artikel 4.5](http://rulebook.worldarchery.org/PDF/Official/2015-01-01/EN-Book2.pdf) , [DBSV-Wettkampfordnung](http://www.dbsv1959.de/index.php/sport/wettkampfordnung), [Sport-Definitionen](http://www.sportsdefinitions.com/archery/Round.html)) und was zu Missverständnissen führen kann. 
 
-Es muss daher vorsichtig unterscheiden werden in welchem Zusammenhang "Runden" genutzt wird.
+Es muss daher vorsichtig unterscheiden werden in welchem Zusammenhang "Runde" genutzt wird.
 
 ### Wettkampfform
 Zum einen wird mit damit eine Wettkampfform bezeichnet wie "720'er Runde", "Feldbogenrunde", usw. .
