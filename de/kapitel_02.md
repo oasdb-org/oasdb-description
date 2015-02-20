@@ -4,16 +4,19 @@ In den Tabellen "Wettkampfvorbereitung" werden die Rahmenbedingungen eines des W
 
 Aus diesen Angaben muss sich eine Ausschreibung / Einladung erstellen lassen.
 
-* [Tabelle "events"](kapitel_02_01.md)
-* [Tabelle "events_information"] (kapitel_02_02.md)
-* [Tabelle "sessions"] (kapitel_02_03.md)
-* [Tabelle ”sessions_timetable”] (kapitel_02_04.md)
+Gundlegende Angaben
+* [Allgemeines zum Wettkampf ("events")](kapitel_02_01.md)
+* [Spezielle/Optionales Informationen zum Wettkampf ("events_information")] (kapitel_02_02.md)
+ 
+Den Wettkampf zeitlich strukturieren
+* [Festlegung der Anzahl der Durchgänge ("sessions")] (kapitel_02_03.md)
+* [Festlegung der Runden ("rounds")] (kapitel_02_08.md)
+* [Festlegung des zeitlichen Ablaufes ("sessions_timetable")] (kapitel_02_04.md)
 
-Divisions
-* [Tabelle ”classes”] (kapitel_02_05.md)
-* [Tabelle ”divisions”] (kapitel_02_06.md)
-* [Tabelle ”categories”] (kapitel_02_07.md)
+Zulässige Alters- und Bogenklassen
+* [Mögliche Altersklassen eintragen ("classes")] (kapitel_02_05.md)
+* [Mögliche Bogenarten eintragen ("divisions")] (kapitel_02_06.md)
+* [Zugelassene Kombinationen von Bogen- und Altersklasse festlegen ("categories")] (kapitel_02_07.md)
 
-Teile des Wettkampfes
-* [Tabelle ”distances”] (kapitel_02_08.md)
-* [Tabelle ”categories_distances”] (kapitel_02_09.md)
+Die Informationen für das Wettkamffeld vorbereiten
+* [Festlegung der Entferungen und Auflagen (”rounds_categories”)] (kapitel_02_09.md)
