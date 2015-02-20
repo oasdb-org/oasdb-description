@@ -1,4 +1,4 @@
-#OpenArcheryScroreDatabase (oasdb)
+#OpenArcheryScroreDatabase (oasdb) - in Bearbeitung / in process
 Ziel des Projekten ist es eine eine SQL-Datenbank zu beschreiben in der Informationen gespeichert werden können die bei einem Bogensport-Wettkampf anfallen.
 
 Es soll eine gut dokumentierte Plattform geschaffen werden, auf der Programmierer aufbauen können um Anwendungen zu schreiben.
