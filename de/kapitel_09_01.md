@@ -8,7 +8,8 @@ Die Startnummer der Einzelstarter setzt sich aus drei Teilen zusammen:
 
 Sie ist damit über den gesamten Wettkampf eindeutig und kann für den gesamten Wettkampf (*event*) gelten. Die Informationen über "Kategorie", "Startplatz", ... werden als Zusatzinformationen hinterlegt.
 
-Die "individual_id" ist nötig, da es vorkommen kann, dass eine Person in mehreren Kategorien startet.
+Die "individual_id" ist nötig, da es vorkommen kann, dass eine Person in mehreren Kategorien startet. 
+>Die "individual_id" wird bewusst nicht durch "category_id" ersetzt. Stellt sich unmittelbar vor oder während des Wettkampfes heraus, dass der Teilnehmer falsch klassifiziert wurde, so würde sich die Startnummer ändern wenn er einer anderen Kategorie zugeordnet werden würde.
 
 ####Beispiel 1
 * Wettkampf (event_id:12) 
