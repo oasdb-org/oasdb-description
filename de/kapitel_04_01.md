@@ -1,14 +1,12 @@
-##Tabelle ”Startplatz”
+##Tabelle ”Startplatz Einzelstarter”
 
-In dieser Tabelle werden die Starter (Tabelle [sub:Tabelle-„individuals“]) auf Ihre Startplätze verteilt.
+In dieser Tabelle werden die Starter auf Ihre Startplätze verteilt.
 
 **Schlüsselfelder**
-
-* event_id (Fremdschlüssel [sub:Tabelle-”events”])
-* session_id (Fremdschlüssel [sub:Tabelle-”sessions”])
+* event_id
+* session_id
 * target_id
 
 **Felder**
-
 * participant_id (Fremdschlüssel [sub:Tabelle-”participants”])
 * individual_id ()
