@@ -1,6 +1,10 @@
 ##Tabelle ”Startplatz Einzelstarter”
 
-In dieser Tabelle werden die Starter auf Ihre Startplätze verteilt.
+In dieser Tabelle werden die Starter in einer Qualifikationsphase auf Ihre Startplätze verteilt.
+
+Es wird davon ausgegangen, dass ein Starter über den gesammten Durchgang ("session") den gleichen Startplatz einnimmt. Bei Wettkäpfen im Parcours-Bereich heißt das, dass er in der gleichen Gruppe bleibt.
+
+Daher findet keine weitere Differenzierung in den Schlüsselfelder statt. Eine Feld "round_id" wird nicht in eingefügt.
 
 **Schlüsselfelder**
 * event_id
@@ -8,5 +12,5 @@ In dieser Tabelle werden die Starter auf Ihre Startplätze verteilt.
 * target_id
 
 **Felder**
-* participant_id (Fremdschlüssel [sub:Tabelle-”participants”])
+* participant_id
 * individual_id ()
