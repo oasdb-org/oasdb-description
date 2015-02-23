@@ -6,3 +6,4 @@ Die Begriffe die in dieser Beschreibung verwand werden in andern Veröffentlichu
 * [Runde](kapitel_08_runde.md)
 * [Mannschaften](kapitel_08_mannschaft.md)
 * [Eindeutigkei der Startnummern](kapitel_08_startnummern.md)
+* [NOC](kapitel_08_noc.md)
