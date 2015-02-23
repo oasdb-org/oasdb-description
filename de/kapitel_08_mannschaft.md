@@ -71,6 +71,63 @@ In den Wettkampfaufzeichnungen muss folgendes ersichtlich sein:
 
 ###Zusammenfassung
 
+<table>
+<tr>
+<td></td>
+<td colspan="4">Einzelstarter hat:</td>
+<td colspan="4">Gruppen hat:</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Startplatz</td>
+<td>Kategorie</td>
+<td>Ergebnis</td>
+<td>Plazierung</td>
+<td>Startplatz</td>
+<td>Kategorie</td>
+<td>Ergebnis</td>
+<td>Plazierung</td>
+</tr>
+
+<tr>
+<th>Gruppe</th>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Nein</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+</tr>
+
+<tr>
+<th>Mannschaft</th>
+<td>Nein</td>
+<td>(Ja)</td>
+<td>(Ja)</td>
+<td>Nein</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+</tr>
+
+<tr>
+<th>Liga-Team</th>
+<td>Nein</td>
+<td>(Ja)</td>
+<td>(Ja)</td>
+<td>Nein</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+</tr>
+
+</table>
+
 Im Fall "Gruppenwertung" muss man feststellen, dass die Einzelergebnisse ausschlaggebend sind und die Gruppenwertung sich lediglich aus der Addition dieser Einzelergebnisse ergibt.
 
 Im Fall "Mannschaft" und "Liga-Team" werden die Ergebnisse als Mannschaft erzielt werden. Ergebnisse und Kategorie des Einzelnen werden hinterlegt um nachvollziehen zu können ob das Mannschaftsergebnis korrekt zustande gekommen ist.
