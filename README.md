@@ -26,7 +26,6 @@ The focus is on the structure of the database and whose description.
 * [06 Sondertabellen](de/kapitel_06.md)
 * [07 Felder und deren Bedeutung](de/kapitel_07.md)
 * [08 Begriffe](de/kapitel_08.md)
-* [09 Fallstudien](de/kapitel_09.md)
 * [10 Quellen](de/kapitel_10.md)
 
 ##Weitere Projekte
