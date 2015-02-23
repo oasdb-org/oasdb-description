@@ -4,3 +4,5 @@ Die Begriffe die in dieser Beschreibung verwand werden in andern Veröffentlichu
 
 * [Match](kapitel_08_match.md)
 * [Runde](kapitel_08_runde.md)
+* [Mannschaften](kapitel_08_mannschaft.md)
+* [Eindeutigkei der Startnummern](kapitel_08_startnummern.md)
