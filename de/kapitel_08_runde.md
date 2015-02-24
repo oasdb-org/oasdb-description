@@ -20,7 +20,7 @@ Außerdem ist damit die Anzahl von Passen bezeichnet nach denen ein Zwischenerge
 Betrachtet man dies etwas allgemeiner und sieht eine Runde als zeitliches Gliederungselement in einem Wettkampf, so kann man auch ein [**Match**](kapitel_08_runde.md) als eine Runde ansehen.
 
 ### Verwendung des Wortes "Runde" in der oasdb-Datenstruktur
-* In der Datenstruktur wird das Wort "Runde" nur in der Bedeutung "Anzahl von Passen" verwandt.
-* Die Bedeutung "Wettkampfform" wird mit dem Wort "Wettkampfform" abgedeckt.
-* Die "Abschnitte eines Wettkampfes" werden als "Durchgang" bezeichnet.
+**In der Datenstruktur wird das Wort "Runde/round" nur in der Bedeutung "Anzahl von Passen" verwandt.**
+
+Die Bedeutung "Wettkampfform" wird mit dem Wort "Wettkampfform" abgedeckt. Die "Abschnitte eines Wettkampfes" werden als "Durchgang/session" bezeichnet.
 
