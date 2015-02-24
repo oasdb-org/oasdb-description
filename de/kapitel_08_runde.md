@@ -19,7 +19,7 @@ Außerdem ist damit die Anzahl von Passen bezeichnet nach denen ein Zwischenerge
 * Bei einer "Feldbogenrunde" werden zwei Runden geschossen. Eine davon auf unbekannte die andere auf bekannte Entfernungen.
 * Bei einer "1440'er Runde" werden vier Entferungen (*Runden*) mit je sechs Passen a sechs Pfeile geschossen.
 
-Betrachtet man dies etwas allgemeiner und sieht eine Runde als zeitliches Gliederungselement in einem Wettkampf, so kann man auch ein [**Match**](kapitel_08_runde.md) als eine Runde ansehen.
+Betrachtet man dies etwas allgemeiner und sieht eine Runde als zeitliches Gliederungselement in einem Wettkampf, so kann man auch ein [**Match**](kapitel_08_match.md) als eine Runde ansehen.
 
 ### Zusammenfassung
 * In der Datenstruktur wird das Wort "Runde/round" nur in der Bedeutung "Anzahl von Passen" verwandt.
