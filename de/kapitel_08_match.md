@@ -26,6 +26,13 @@ An einer Liga-Runde tritt jede gegen jede Mannschaft an. Das Ergebnis eines Wett
 Die Starter wechseln bei jeder Match-Runde auf eine neue Position. Sowohl bei einer **Liga-Runde** als auch bei einer **Ausscheidungsrunde** erfolgt jedoch nach einem vorher festgelegtem Schema.
 
 ####Planung der Postitionen
-Ein Liga-Wettkampf mit acht Mannschaften besteht aus sieben Match-Runden. Die Paarungen sind vorher bekannt und lassen sich daher vorab planen.
+Ein **Liga-Wettkampf** mit acht Mannschaften besteht aus sieben Match-Runden. Die Paarungen sind vorher bekannt und lassen sich vorab planen.
 
-Eine Ausscheidungsrunde, die mit einem Viertelfinale beginnt besteht aus vier Match-Runden. Die Paarung der ersten Match-Runde ergibt sich aus dem Ergebnis der Qualifikationsrunde und ist somit vor Beginn der Ausscheidungsrunde bekannt. Die Paarungen in den nächsten Match-Runden ergeben sich im Wettkampfverlauf.
+       |Match 1|Match 2|Match 3|Match 4|Match 5|Match 5|Match 6|Match 7
+-------|-------|-------|-------|-------|-------|-------|-------|-------
+Paar 1 |
+Paar 2 |
+Paar 3 |
+Paar 4 |
+
+Eine **Ausscheidungsrunde**, die mit einem Viertelfinale beginnt besteht aus vier Match-Runden. Die Paarung der ersten Match-Runde ergibt sich aus dem Ergebnis der Qualifikationsrunde und ist somit vor Beginn der Ausscheidungsrunde bekannt. Die Paarungen in den nächsten Match-Runden ergeben sich im Wettkampfverlauf.
