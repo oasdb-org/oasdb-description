@@ -22,5 +22,10 @@ In einer **Ausscheidungsrunde** werden mehrere Matches durchgeführt. Nach jeder
 ####Liga-Runde
 An einer Liga-Runde tritt jede gegen jede Mannschaft an. Das Ergebnis eines Wettkampftages ist die Summer der erzielten Match-Punkte und die Summe der Ringe und/oder Satzpunkte.
 
-####Ständig wechelnde Startpositionen
-Die Starter wechseln bei jeder Match-Runde auf eine neue Position.
+####Ständig wechelnde Positionen
+Die Starter wechseln bei jeder Match-Runde auf eine neue Position. Sowohl bei einer **Liga-Runde** als auch bei einer **Ausscheidungsrunde** erfolgt jedoch nach einem vorher festgelegtem Schema.
+
+####Planung der Postitionen
+Ein Liga-Wettkampf mit acht Mannschaften besteht aus sieben Match-Runden. Die Paarungen sind vorher bekannt und lassen sich daher vorab planen.
+
+Eine Ausscheidungsrunde, die mit einem Viertelfinale beginnt besteht aus vier Match-Runden. Die Paarung der ersten Match-Runde ergibt sich aus dem Ergebnis der Qualifikationsrunde und ist somit vor Beginn der Ausscheidungsrunde bekannt. Die Paarungen in den nächsten Match-Runden ergeben sich im Wettkampfverlauf.
