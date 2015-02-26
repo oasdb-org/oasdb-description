@@ -39,7 +39,7 @@ Eine **Ausscheidungsrunde**, die mit einem Viertelfinale beginnt besteht aus vie
 
       |Viertelfinale|Halbfinale   |Bronzefinale |Goldfinale
 ------|-------------|-------------|-------------|-------------
-Paar 1|Starter 1+8  |Sieger 1+2   |Verlieger \n im |Sieger im
-Paar 2|Starter 5+4  |Sieger 3+4   |Halbfinale   |Halbfinale
+Paar 1|Starter 1+8  |Sieger 1+2   |Verlieger im Halbfinale|Sieger im Halbfinale
+Paar 2|Starter 5+4  |Sieger 3+4   |             |
 Paar 3|Starter 3+6  |             |             |
 Paar 4|Starter 7+2  |             |             |
