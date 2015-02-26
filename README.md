@@ -3,7 +3,7 @@ Ziel des Projekten ist es eine eine SQL-Datenbank zu beschreiben in der Informat
 
 Es soll eine gut dokumentierte Plattform geschaffen werden, auf der Programmierer aufbauen können um Anwendungen zu schreiben.
 
-Die in der Beschreibung verwendeten Begriffe orientieren sich an der englischen Version des WorldArchery Regelwerkes [http://www.worldarchery.org/HOME/Rules/Constitution-Rules](http://www.worldarchery.org/HOME/Rules/Constitution-Rules).
+Die in der Beschreibung verwendeten Begriffe orientieren sich an der englischen Version des WorldArchery Regelwerkes [http://www.worldarchery.org/HOME/Rules/Constitution-Rules][1].
 
 Die Beschreibung entsteht vorerst in Deutsch und wird ins Englische übertragen. Ziel ist es die Versionen inhaltlich identisch zu halten.
 
@@ -31,5 +31,5 @@ The focus is on the structure of the database and whose description.
 ##Weitere Projekte
 * ["oasdb-mysql" Die Umsetzung der Vorlagen als mySQL][2]
 
-[1]:
-[2]:https://github.com/oasdb-org/oasdb-mysql)
+[1]: http://www.worldarchery.org/HOME/Rules/Constitution-Rules "WorldArchery Rules"
+[2]: https://github.com/oasdb-org/oasdb-mysql
