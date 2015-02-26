@@ -28,11 +28,18 @@ Die Starter wechseln bei jeder Match-Runde auf eine neue Position. Sowohl bei ei
 ####Planung der Postitionen
 Ein **Liga-Wettkampf** mit acht Mannschaften besteht aus sieben Match-Runden. Die Paarungen sind vorher bekannt und lassen sich vorab planen.
 
-       |Match 1|Match 2|Match 3|Match 4|Match 5|Match 5|Match 6|Match 7
--------|-------|-------|-------|-------|-------|-------|-------|-------
-Paar 1 |
-Paar 2 |
-Paar 3 |
-Paar 4 |
+       |Match 1 |Match 2 |Match 3 |Match 4 |Match 5 |Match 6 |Match 7
+-------|--------|--------|--------|--------|--------|--------|--------
+Paar 1 |Team 5+4|Team 3+5|Team 4+7|Team 8+2|Team 7+6|Team 1+3|Team 2+1
+Paar 2 |Team 2+7|Team 8+4|Team 1+6|Team 7+3|Team 5+8|Team 4+2|Team 6+5
+Paar 3 |Team 1+8|Team 7+1|Team 2+5|Team 6+4|Team 3+2|Team 8+6|Team 4+3
+Paar 4 |Team 3+6|Team 6+2|Team 8+3|Team 1+5|Team 4+1|Team 5+7|Team 7+8
 
 Eine **Ausscheidungsrunde**, die mit einem Viertelfinale beginnt besteht aus vier Match-Runden. Die Paarung der ersten Match-Runde ergibt sich aus dem Ergebnis der Qualifikationsrunde und ist somit vor Beginn der Ausscheidungsrunde bekannt. Die Paarungen in den nächsten Match-Runden ergeben sich im Wettkampfverlauf.
+
+      |Viertelfinale|Halbfinale   |Bronzefinale |Goldfinale
+------|-------------|-------------|-------------|-------------
+Paar 1|Starter 1+8  |Sieger 1+2   |Verlieger \n im |Sieger im
+Paar 2|Starter 5+4  |Sieger 3+4   |Halbfinale   |Halbfinale
+Paar 3|Starter 3+6  |             |             |
+Paar 4|Starter 7+2  |             |             |
