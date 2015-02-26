@@ -1,4 +1,4 @@
-##Tabelle "position_elimination_teams"
+##Tabelle "positions_elimination_teams"
 Es ist bekannt auf welcher Ebene die Ausscheidungsrunde gestartet wird. (siehe [Match])
 Somit können vor Wettkampfbeginn festgelegt werden
 * nötige Anzahl der 
