@@ -25,8 +25,11 @@ The focus is on the structure of the database and whose description.
 * [05 Tabellen - Ergebniserfassung](de/kapitel_05.md)
 * [06 Sondertabellen](de/kapitel_06.md)
 * [07 Felder und deren Bedeutung](de/kapitel_07.md)
-* [08 Begriffe](de/kapitel_08.md)
+* [08 Begriffe und Detailfragen](de/kapitel_08.md)
 * [10 Quellen](de/kapitel_10.md)
 
 ##Weitere Projekte
-* ["oasdb-mysql" Die Umsetzung der Vorlagen als mySQL](https://github.com/oasdb-org/oasdb-mysql)
+* ["oasdb-mysql" Die Umsetzung der Vorlagen als mySQL][2]
+
+[1]:
+[2]:https://github.com/oasdb-org/oasdb-mysql)
