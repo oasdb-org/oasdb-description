@@ -35,11 +35,14 @@ Paar 2 |Team 2+7|Team 8+4|Team 1+6|Team 7+3|Team 5+8|Team 4+2|Team 6+5
 Paar 3 |Team 1+8|Team 7+1|Team 2+5|Team 6+4|Team 3+2|Team 8+6|Team 4+3
 Paar 4 |Team 3+6|Team 6+2|Team 8+3|Team 1+5|Team 4+1|Team 5+7|Team 7+8
 
-Eine **Ausscheidungsrunde**, die mit einem Viertelfinale beginnt besteht aus vier Match-Runden. Die Paarung der ersten Match-Runde ergibt sich aus dem Ergebnis der Qualifikationsrunde und ist somit vor Beginn der Ausscheidungsrunde bekannt. Die Paarungen in den nächsten Match-Runden ergeben sich im Wettkampfverlauf.
+Eine **Ausscheidungsrunde**, die mit einem Viertelfinale beginnt besteht aus vier Match-Runden. Die Paarungen der ersten Match-Runde ergeben sich aus den Ergebnissen der Qualifikationsrunde und sind somit vor Beginn der Ausscheidungsrunde bekannt. Die Paarungen in den nächsten Match-Runden ergeben sich im Wettkampfverlauf.
 
       |Viertelfinale|Halbfinale   |Bronzefinale |Goldfinale
-------|-------------|-------------|-------------|-------------
+------|-------------|-------------|-----------------------|-------------
 Paar 1|Starter 1+8  |Sieger 1+2   |Verlieger im Halbfinale|Sieger im Halbfinale
 Paar 2|Starter 5+4  |Sieger 3+4   |             |
 Paar 3|Starter 3+6  |             |             |
 Paar 4|Starter 7+2  |             |             |
+
+
+Bei beiden Wettkampfformen können die Startplätze/-positionen vor Wettkampfbeginn geplant und angelegt werden.
