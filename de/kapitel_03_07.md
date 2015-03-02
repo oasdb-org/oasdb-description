@@ -1,10 +1,10 @@
 ##Tabelle ”teams” 
 
-Die Tabelle wird dann benötigt, wenn Wettkämpfe ausgetragen werden, bei denen nur Mannschaftsergebnisse und keine Einzelergebnisse gewertet werden. (siehe [teams])
+Die Tabelle wird dann benötigt, wenn Wettkämpfe ausgetragen werden, bei denen nur Mannschaftsergebnisse und keine Einzelergebnisse gewertet werden. (siehe [mannschaften])
 
-Die Mannschaften werden beschrieben (Verein, Kategorie) und die einzelnen Mitglieder in der Tabelle ”teammembers” aufgeführt.
+Die Mannschaften werden beschrieben (Verein, Kategorie) und die einzelnen Mitglieder in der Tabelle [team_members] aufgeführt.
 
-Mitglieder einer Mannschaft werden nicht zuätzlich in der Tabelle ”individuals” aufgeführt.
+*Mitglieder einer Mannschaft werden nicht zuätzlich in der Tabelle ”individuals” aufgeführt.*
 
 **Schüsselfelder**
 
@@ -15,4 +15,5 @@ Mitglieder einer Mannschaft werden nicht zuätzlich in der Tabelle ”individual
 
 * title_short
 
-[teams]: kapitel_03_07.md
+[Mannschaften]: kapitel_08_mannschaft.md
+[team_members]: kapitel_03_08.md
