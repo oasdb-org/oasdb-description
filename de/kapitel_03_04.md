@@ -17,13 +17,14 @@ Die Struktur der Datenbank lässt aber auch widersprüchliche oder sinnlose Eint
 * Ein Teilnehmer startet in allen Kategorien.
 * Ein Teilnehmer startet in zwei Druchgängen in der gleichen Kategorie.
 
-**Schlüsselfelder **
+**Schlüsselfelder**
 
 * event_id (Fremdschlüssel [sub:Tabelle-”events”])
 * participant_id (Fremdschlüssel [sub:Tabelle-”participants”])
 * individual_id ()
 
-*Felder Kategorie*
+**Felder Kategorie**
 
 * class_id (Fremdschlüssel [sub:Tabelle-”categories”])
 * division_id (Fremdschlüssel [sub:Tabelle-”categories”])
+
