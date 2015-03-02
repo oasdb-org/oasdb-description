@@ -2,13 +2,27 @@
 
 Diese Tabelle kommt zum Einsatz wenn Wettbewerbe durchgeführt werden, bei denen das Mannschaftsergebnis im Vordergrund steht.
 
-Ausgehend von den Tabellen „participants“ und „teams“ werden die Mannschaften zusammengestellt, und klassifiziert. Die Datenbank lässt es zu, dass ein Teilnehmer („participant“) in zwei Mannschaften startet. Dies muss durch eine Anwendung kontrolliert werden. 
+Ausgehend von den Tabellen [participants] und [teams] werden die Mannschaften zusammengestellt, und klassifiziert. 
 
-**Schüsselfelder**
+**Besonderheit „Liga-Mannschaft“**
 
-* event_id (Fremdschlüssel [sub:Tabelle-”events”])
-* session_id (Fremdschlüssel [sub:Tabelle-”sessions”])
-* team_id (Fremdschlüssel [sub:Tabelle-”teams”]) 
-* participant_id (Fremdschlüssel [sub:Tabelle-”participants”]) 
+Die Besonderheit bei Ligamannschaften ist, dass einer Mannschaft mehr als drei Mitglieder zugeordnet werden können. Es wird im Wettkampf entschieden, wer in welchem Match zum Einsatz kommt. 
 
-**Felder**
+**Besonderheit „3D-Runde“**
+
+Eine Mannschaft in einer 3D Runde besteht aus einem Compound, einem Instinktivbogen und einem Langbogen-Teilnehmer. Es ist somit nötig zu vermerken in welcher Kategorie jedes einzelne Mannschaftsmitglied startet.
+
+####Schüsselfelder
+
+* event_id
+* session_id
+* team_id
+* participant_id
+
+####Felder
+
+* class_id
+* division_id
+
+[participants]: kapitel_03_03.md
+[teams]: kapitel_03_07.md
