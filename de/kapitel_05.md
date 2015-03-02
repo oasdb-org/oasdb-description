@@ -9,3 +9,19 @@ Die erfassten Ergebnisse können aber auch Grundlage für die Fortführung des W
 
 In diesen Fällen geht man zurück auf den Schritt "Startplatzvergabe".
 
+**Erfassung Qualifikationsrunden**
+
+* Einzelstarter ([qualification_individual])
+* Mannschaften
+
+**Erfassung Ausscheidungsrudnen**
+
+* Einzelstarter
+* Mannschaften 
+
+**Erfassung Ligawettkampf**
+
+* Mannscharten und Einzelergebnisse
+
+
+[qualification_individual]: kapitel_05_01.md
