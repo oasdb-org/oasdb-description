@@ -17,4 +17,4 @@ Die Tabelle "championships" enthält daher kaum Informationen. Es ist die "champ
 ####Felder
 * title
 
-["events"]: xx.md
+["events"]: kapitel_02_01.md
