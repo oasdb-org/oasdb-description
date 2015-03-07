@@ -1,25 +1,27 @@
 #Felder und deren Bedeutung
 
-                     |[events]|[sessions]|[rounds]|[classes]|[divisions]|[categories]|
----------------------|--------|----------|--------|---------|-----------|------------|
-[event_id]           |x       |x         |x       |x        |x          |x           |
-[session_id]         |        |x         |x       |         |           |            |
-[round_id]           |        |          |x       |         |           |            |
-[class_id]           |        |          |        |x        |           |x           |
-[division_id]        |        |          |        |         |x          |x           |
----------------------|--------|----------|--------|---------|-----------|------------|
-[age_first]          |        |          |        |x        |           |            |
-[age_last]           |        |          |        |x        |           |            |
-[foreign_key_divider]|x       |          |        |         |           |            |
-[gender]             |        |          |        |x        |           |            |
-[number_of_targets]  |        |x         |        |         |           |            |
-[starter_per_target] |        |x         |        |         |           |            |
-[title]              |x       |x         |x       |x        |x          |x           |
-[title_short]        |x       |x         |x       |x        |x          |x           |
-[tiebreaker_1]       |        |          |        |         |           |            |
-[tiebreaker_2]       |        |          |        |         |           |            |
-[tiebreaker_3]       |        |          |        |         |           |            |
-[venue]              |        |x         |        |         |           |            |
+                     |[events]|[sessions]|[rounds]|[classes]|[divisions]|[categories]|[rounds_categories]|
+---------------------|--------|----------|--------|---------|-----------|------------|-------------------|
+[event_id]           |x       |x         |x       |x        |x          |x           |x                  |
+[session_id]         |        |x         |x       |         |           |            |                   |
+[round_id]           |        |          |x       |         |           |            |x                  |
+[class_id]           |        |          |        |x        |           |x           |x                  |
+[division_id]        |        |          |        |         |x          |x           |x                  |
+---------------------|--------|----------|--------|---------|-----------|------------|-------------------|
+[age_first]          |        |          |        |x        |           |            |                   |
+[age_last]           |        |          |        |x        |           |            |                   |
+[distance]           |        |          |        |         |           |            |x                  |
+[face]               |        |          |        |         |           |            |x                  |
+[foreign_key_divider]|x       |          |        |         |           |            |                   |
+[gender]             |        |          |        |x        |           |            |                   |
+[number_of_targets]  |        |x         |        |         |           |            |                   |
+[starter_per_target] |        |x         |        |         |           |            |                   |
+[title]              |x       |x         |x       |x        |x          |x           |                   |
+[title_short]        |x       |x         |x       |x        |x          |x           |                   |
+[tiebreaker_1]       |        |          |        |         |           |            |                   |
+[tiebreaker_2]       |        |          |        |         |           |            |                   |
+[tiebreaker_3]       |        |          |        |         |           |            |                   |
+[venue]              |        |x         |        |         |           |            |                   |
 
 
 [events]:kapitel_02_01.md
@@ -28,6 +30,7 @@
 [classes]:kapitel_02_05.md
 [categories]:kapitel_02_07.md
 [divisions]:kapitel_02_06.md
+[rounds_categories]:kapitel_02_09.md
 
 
 
@@ -37,10 +40,13 @@
 [class_id]: kapitel_07_c.md#class_id
 
 [division_id]: kapitel_07_d.md#division_id
+[distance]: kapitel_07_d.md#distance
+
 
 [event_id]: kapitel_07_e.md#event_id
 
 [foreign_key_divider]: kapitel_07_f.md#foreign_key_divider
+[face]: kapitel_07_f.md#face
 
 [gender]: kapitel_07_g.md#gender
 
