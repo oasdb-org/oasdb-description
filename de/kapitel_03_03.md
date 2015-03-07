@@ -6,14 +6,14 @@ Da in dieser Tabelle weder Startplätze noch Aufgaben festgelegt werden, werden 
 
 **Schüsselfelder**
 
-* event_id ([sub:event_id])
-* participant_id ([sub:participant_id])
+* event_id
+* participant_id
 
 **Felder**
 
-* first_name ()
-* middle_name () 
-* last_name ()
-* gender ([sub:gender])
-* date_of_birth ()
-* member_of_country (aus Tabelle [sub:Tabelle-”countries”])
+* first_name
+* middle_name
+* last_name
+* gender
+* date_of_birth
+* member_of_country
