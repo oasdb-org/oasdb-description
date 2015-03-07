@@ -39,18 +39,26 @@
 
 [class_id]: kapitel_07_c.md#class_id
 
+[date_of_birth]: kapitel_07_d.md#date_of_birth
 [division_id]: kapitel_07_d.md#division_id
 [distance]: kapitel_07_d.md#distance
 
-
 [event_id]: kapitel_07_e.md#event_id
 
-[foreign_key_divider]: kapitel_07_f.md#foreign_key_divider
 [face]: kapitel_07_f.md#face
+[first_name]:kapitel_07_f.md#first_name
+[foreign_key_divider]: kapitel_07_f.md#foreign_key_divider
 
 [gender]: kapitel_07_g.md#gender
 
+[last_name]: kapitel_07_l.md#last_name
+
+[member_of_country]: kapitel_07_m.md#member_of_country
+[middle_name]: kapitel_07_m.md#middle_name
+
 [number_of_targets]: kapitel_07_n.md#number_of_targets
+
+[participant_id]: kapitel_07_p.md#participant_id
 
 [round_id]: kapitel_07_r.md#round_id
 
