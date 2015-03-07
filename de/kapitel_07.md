@@ -27,12 +27,12 @@
 [classes]:kapitel_02_05.md
 
 
-[age_first]: kapiten_07_a.md#age_first
-[age_last]: kapiten_07_a.md#age_last
+[age_first]: kapitel_07_a.md#age_first
+[age_last]: kapitel_07_a.md#age_last
 
-[class_id]: kapiten_07_c.md#class_id
+[class_id]: kapitel_07_c.md#class_id
 
-[event_id]: kapiten_07_e.md#event_id
+[event_id]: kapitel_07_e.md#event_id
 
 [foreign_key_divider]: kapitel_07_f.md#foreign_key_divider
 
