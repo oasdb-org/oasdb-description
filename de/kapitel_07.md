@@ -6,6 +6,8 @@
 [session_id]         |        |x
 ---------------------|--------|----------
 [foreign_key_divider]|x
+[number_of_targets]  |        |x
+[starter_per_target] |        |x
 [title]              |x       |x
 [title_short]        |x       |x
 [tiebreaker_1]       |        | 
@@ -21,8 +23,10 @@
 [event_id]: kapiten_07_e.md#event_id
 
 [foreign_key_divider]: kapitel_07_f.md#foreign_key_divider
+[number_of_targets]: kapitel_07_n.md#number_of_targets
 
 [session_id]: kapitel_07_s.md#session_id
+[starter_per_target]: kapitel_07_s.md#starter_per_target
 
 [tiebreaker_1]:  kapitel_07_t.md#tiebreaker
 [tiebreaker_2]:  kapitel_07_t.md#tiebreaker
