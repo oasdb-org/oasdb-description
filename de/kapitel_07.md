@@ -11,6 +11,7 @@
 [tiebreaker_1]       |        | 
 [tiebreaker_2]       |        | 
 [tiebreaker_3]       |        | 
+[venue]              |        |x
 
 
 [events]:kapitel_02_01.md
@@ -28,3 +29,5 @@
 [tiebreaker_3]:  kapitel_07_t.md#tiebreaker
 [title]:  kapitel_07_t.md#title
 [title_short]:  kapitel_07_t.md#title_short
+
+[venue]: kapitel_07_v.md#venue
