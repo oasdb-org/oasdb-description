@@ -1,10 +1,11 @@
 #Felder und deren Bedeutung
 
-                     |[events]|[sessions]|[rounds]|[classes]
----------------------|--------|----------|--------|
-[event_id]           |x       |x         |x       |
-[session_id]         |        |x         |x       |
-[round_id]           |        |          |x       |
+                     |[events]|[sessions]|[rounds]|[classes]|
+---------------------|--------|----------|--------|---------|
+[event_id]           |x       |x         |x       |x        |
+[session_id]         |        |x         |x       |         |
+[round_id]           |        |          |x       |         |
+[class_id]           |        |          |        |x        |
 ---------------------|--------|----------|--------|
 [foreign_key_divider]|x       |          |        |
 [number_of_targets]  |        |x         |        |
