@@ -6,16 +6,19 @@
 [session_id]         |        |x         |x       |         |
 [round_id]           |        |          |x       |         |
 [class_id]           |        |          |        |x        |
----------------------|--------|----------|--------|
-[foreign_key_divider]|x       |          |        |
-[number_of_targets]  |        |x         |        |
-[starter_per_target] |        |x         |        |
-[title]              |x       |x         |x       |
-[title_short]        |x       |x         |x       |
-[tiebreaker_1]       |        |          |        |
-[tiebreaker_2]       |        |          |        |
-[tiebreaker_3]       |        |          |        |
-[venue]              |        |x         |        |
+---------------------|--------|----------|--------|---------|
+[age_first]          |        |          |        |x        |
+[age_last]           |        |          |        |x        |
+[foreign_key_divider]|x       |          |        |         |
+[gender]             |        |          |        |x        |
+[number_of_targets]  |        |x         |        |         |
+[starter_per_target] |        |x         |        |         |
+[title]              |x       |x         |x       |x        |
+[title_short]        |x       |x         |x       |x        |
+[tiebreaker_1]       |        |          |        |         |
+[tiebreaker_2]       |        |          |        |         |
+[tiebreaker_3]       |        |          |        |         |
+[venue]              |        |x         |        |         |
 
 
 [events]:kapitel_02_01.md
