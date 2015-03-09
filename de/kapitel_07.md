@@ -1,27 +1,37 @@
 #Felder und deren Bedeutung
 
-                     |[events]|[sessions]|[rounds]|[classes]|[divisions]|[categories]|[rounds_categories]|
----------------------|--------|----------|--------|---------|-----------|------------|-------------------|
-[event_id]           |x       |x         |x       |x        |x          |x           |x                  |
-[session_id]         |        |x         |x       |         |           |            |                   |
-[round_id]           |        |          |x       |         |           |            |x                  |
-[class_id]           |        |          |        |x        |           |x           |x                  |
-[division_id]        |        |          |        |         |x          |x           |x                  |
----------------------|--------|----------|--------|---------|-----------|------------|-------------------|
-[age_first]          |        |          |        |x        |           |            |                   |
-[age_last]           |        |          |        |x        |           |            |                   |
-[distance]           |        |          |        |         |           |            |x                  |
-[face]               |        |          |        |         |           |            |x                  |
-[foreign_key_divider]|x       |          |        |         |           |            |                   |
-[gender]             |        |          |        |x        |           |            |                   |
-[number_of_targets]  |        |x         |        |         |           |            |                   |
-[starter_per_target] |        |x         |        |         |           |            |                   |
-[title]              |x       |x         |x       |x        |x          |x           |                   |
-[title_short]        |x       |x         |x       |x        |x          |x           |                   |
-[tiebreaker_1]       |        |          |        |         |           |            |                   |
-[tiebreaker_2]       |        |          |        |         |           |            |                   |
-[tiebreaker_3]       |        |          |        |         |           |            |                   |
-[venue]              |        |x         |        |         |           |            |                   |
+|[events]|[sessions]|[rounds]|[classes]|[divisions]|[categories]|[rounds_categories]|[participants]|[accosiations]|[countries]
+:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+[association_id]| | | | | | | | |x|
+[country_id]| | | | | | | | | |x
+[class_id]| | | |x| |x|x| | |
+[division_id]| | | | |x|x|x| | |
+[event_id]|x|x|x|x|x|x|x|x|x|x
+[participant_id]| | | | | | | |x| |
+[round_id]| | |x| | | |x| | |
+[session_id]| |x|x| | | | | | |
+---| | | | | | | | | |
+[age_first]| | | |x| | | | | |
+[age_last]| | | |x| | | | | |
+[date_of_birth]| | | | | | | |x| |
+[distance]| | | | | | |x| | |
+[face]| | | | | | |x| | |
+[first_name]| | | | | | | |x| |
+[foreign_key_divider]|x| | | | | | | | |
+[gender]| | | |x| | | |x| |
+[last_name]| | | | | | | |x| |
+[number_of_targets]| |x| | | | | | | |
+[member_of_country]| | | | | | | |x| |
+[member_of_accosiation]| | | | | | | |x| |
+[middle_name]| | | | | | | |x| |
+[part_of]| | | | | | | | |x|x
+[starter_per_target]| |x| | | | | | | |
+[title]|x|x|x|x|x|x| | |x|x
+[title_short]|x|x|x|x|x|x| | |x|x
+[tiebreaker_1]| | | | | | | | | |
+[tiebreaker_2]| | | | | | | | | |
+[tiebreaker_3]| | | | | | | | | |
+[venue]| |x| | | | | | | |
 
 
 [events]:kapitel_02_01.md
@@ -31,13 +41,19 @@
 [categories]:kapitel_02_07.md
 [divisions]:kapitel_02_06.md
 [rounds_categories]:kapitel_02_09.md
+[participants]:
+[accosiations]:
+[countries]:
+
 
 
 
 [age_first]: kapitel_07_a.md#age_first
 [age_last]: kapitel_07_a.md#age_last
+[association_id]: kapitel_07_a.md#association_id
 
 [class_id]: kapitel_07_c.md#class_id
+[country_id]: kapitel_07_c.md#country_id
 
 [date_of_birth]: kapitel_07_d.md#date_of_birth
 [division_id]: kapitel_07_d.md#division_id
@@ -59,6 +75,7 @@
 [number_of_targets]: kapitel_07_n.md#number_of_targets
 
 [participant_id]: kapitel_07_p.md#participant_id
+[part_of]: kapitel_07_p.md#part_of
 
 [round_id]: kapitel_07_r.md#round_id
 
