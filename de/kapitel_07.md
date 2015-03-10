@@ -1,40 +1,47 @@
 #Felder und deren Bedeutung
 
-|[events]|[sessions]|[rounds]|[classes]|[divisions]|[categories]|[rounds_categories]|[participants]|[accosiations]|[countries]|[individuals]|[club_teams]|[teams]|[teammembers]
-:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-[association_id]| | | | | | | | |key|||||
-[country_id]| | | | | | | | | |key||||
-[class_id]| | | |key| |key|key| | ||x|x||x
-[club_team_id]||||||||||||key||
-[division_id]| | | | |key|key|key| | ||x|x||x
-[event_id]|key|key|key|key|key|key|key|key|key|key|key|key|key|key
-[individual_id]|||||||||||key|||
-[participant_id]| | | | | | | |key| ||key|||key
-[round_id]| | |key| | | |key| | |||||
-[session_id]| |key|key| | | | | | |||||key
-[team_id]|||||||||||||key|key
----| | | | | | | | | |||||
-[age_first]| | | |x| | | | | |||||
-[age_last]| | | |x| | | | | |||||
-[date_of_birth]| | | | | | | |x| |||||
-[distance]| | | | | | |x| | |||||
-[face]| | | | | | |x| | |||||
-[first_name]| | | | | | | |x| |||||
-[foreign_key_divider]|x| | | | | | | | |||||
-[gender]| | | |x| | | |x| |||||
-[last_name]| | | | | | | |x| |||||
-[number_of_targets]| |x| | | | | | | |||||
-[member_of_country]| | | | | | | |x| |||||
-[member_of_accosiation]| | | | | | | |x| |||x||
-[middle_name]| | | | | | | |x| |||||
-[part_of]| | | | | | | | |x|x||||
-[starter_per_target]| |x| | | | | | | |||||
-[title]|x|x|x|x|x|x| | |x|x||x|x|
-[title_short]|x|x|x|x|x|x| | |x|x||x|x|
-[tiebreaker_1]| | | | | | | | | |||||
-[tiebreaker_2]| | | | | | | | | |||||
-[tiebreaker_3]| | | | | | | | | |||||
-[venue]| |x| | | | | | | |||||
+|[events]|[sessions]|[rounds]|[classes]|[divisions]|[categories]|[rounds_categories]|[participants]|[accosiations]|[countries]|[individuals]|[club_teams]|[teams]|[teammembers]|[positions_individuals]|[positions_teams]|[positions_elimination_individuals]|[positions_elimination_teams]|[positions_liga]|[results_individuals]
+:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+[age_first]| | | |x| | | | | |||||||||||
+[age_last]| | | |x| | | | | |||||||||||
+[association_id]| | | | | | | |x|key|||||||||||
+[class_id]| | | |key| |key|key| | ||x|x||x||||||
+[club_team_id]||||||||||||key||||||||
+[country_id]| | | | | | | |x| |key||||||||||
+[date_of_birth]| | | | | | | |x| |||||||||||
+[distance]| | | | | | |x| | |||||||||||
+[division_id]| | | | |key|key|key| | ||x|x||x||||||
+[event_id]|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key
+[face]| | | | | | |x| | |||||||||||
+[first_name]| | | | | | | |x| |||||||||||
+[foreign_key_divider]|x| | | | | | | | |||||||||||
+[gender]| | | |x| | | |x| |||||||||||
+[individual_id]|||||||||||key||||x|||||x
+[individual_id_left]|||||||||||||||||x|||
+[individual_id_right]|||||||||||||||||x|||
+[last_name]| | | | | | | |x| |||||||||||
+[middle_name]| | | | | | | |x| |||||||||||
+[number_of_targets]| |x| | | | | | | |||||||||||
+[part_of]| | | | | | | | |x|x||||||||||
+[participant_id]| | | | | | | |key| ||key|||key|x|||||x
+[participant_id_left]|||||||||||||||||x|||
+[participant_id_right]|||||||||||||||||x|||
+[pair_id]|||||||||||||||||key|key|key|
+[position_id]|||||||||||||||key|key||x|x|key
+[round_id]| | |key| | | |key| | ||||||key|key|key|key|key|key
+[score]||||||||||||||||||||x
+[session_id]| |key|| | | | | | |||||key|key|key|key|key|key|key
+[starter_per_target]| |x| | | | | | | |||||||||||
+[team_id]|||||||||||||key|key||x||||
+[team_id_left]||||||||||||||||||x|x|
+[team_id_right]||||||||||||||||||x|x|
+[tiebreaker_1]| | | | | | | | | |||||||||||x
+[tiebreaker_2]| | | | | | | | | |||||||||||x
+[tiebreaker_3]| | | | | | | | | |||||||||||x
+[title_short]|x|x|x|x|x|x| | |x|x||x|x||||x|x|x|
+[title]|x|x|x|x|x|x| | |x|x||x|x|||||||
+[venue]| |x| | | | | | | |||||||||||
+
 
 
 
