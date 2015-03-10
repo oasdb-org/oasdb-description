@@ -1,4 +1,4 @@
-##Tabelle ”Startplatz Einzelstarter”
+##Tabelle ”positions_individuals”
 
 In dieser Tabelle werden die Starter in einer Qualifikationsphase auf Ihre Startplätze verteilt.
 
