@@ -1,4 +1,4 @@
-##Tabelle ”Startplatz Mannschaft”
+##Tabelle ”positions_teams"
 
 In dieser Tabelle werden die Starter in einer Qualifikationsphase auf Ihre Startplätze verteilt.
 
