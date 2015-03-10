@@ -6,7 +6,13 @@ In dieser Tabelle wird nur ein Name für die Runden festgelegt. Es ist daher mö
 
 Um dies verdeutlichen sollen hier einige Runden beispielhaft benannt werden.
 
-Die Festlegung der Entferungen und Scheibenauflagen geschieht in der Tabelle [categories_rounds].
+* **Erste Entfernung** (Anwendung bei 1440'er-Runde)
+* **Unbekannte Entfernung** (Anwendung bei Feldbogenrunde)
+* **1** und **2** (Anwendung bei 720'er Runde bei der zwei Mal die gleiche Entfernung geschossen wird.)
+* **Viertelfinale** (Anwendung in einer Finalrunde)
+* **Match 1** (Anwendung bei einem Ligawettkampf)
+
+Die Festlegung der tatsächlichen Entferungen und Scheibenauflagen geschieht in der Tabelle [categories_rounds].
 
 ####Schlüsselfelder
 
