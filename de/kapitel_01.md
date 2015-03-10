@@ -1,4 +1,4 @@
-# 1 Allgemeines
+#Allgemeines
 
 Die Datenbank soll alle Angaben beinhalten, die bei der Vorbereitung, Durchführung und Nachbereitung eines Bogenwettkampfes anfallen. Dabei muss es egal sein um welche Art von Wettkampf es sich handelt. 
 
