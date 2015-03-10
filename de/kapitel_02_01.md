@@ -19,3 +19,4 @@ Da ein Durchgang aus mehreren Teilen bestehn kann ergibt sich der Zeitplan der V
 * title_short
 * title
 * foreign_key_divider
+* championship_id
