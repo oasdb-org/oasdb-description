@@ -21,4 +21,4 @@ Da ein Durchgang aus mehreren Teilen bestehn kann ergibt sich der Zeitplan der V
 * foreign_key_divider
 * championship_id
 
-[sessions]: xx.md
+[sessions]: kapitel_02_03.md
