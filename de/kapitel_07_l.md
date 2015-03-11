@@ -1,2 +1,2 @@
 ##limit
-*(int unsigned)*
+*(positive Ganzzahl)*
