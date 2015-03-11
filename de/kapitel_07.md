@@ -20,6 +20,7 @@
 [individual_id_left]|||||||||||||||||x|||
 [individual_id_right]|||||||||||||||||x|||
 [last_name]| | | | | | | |x| |||||||||||
+[limit]| | | | | |x| | | |||||||||||
 [middle_name]| | | | | | | |x| |||||||||||
 [number_of_targets]| |x| | | | | | | |||||||||||
 [part_of]| | | | | | | | |x|x||||||||||
@@ -79,6 +80,7 @@
 [gender]: kapitel_07_g.md#gender
 
 [last_name]: kapitel_07_l.md#last_name
+[limit]: kapitel_07_l.md#limit
 
 [member_of_country]: kapitel_07_m.md#member_of_country
 [middle_name]: kapitel_07_m.md#middle_name
