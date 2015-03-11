@@ -1,6 +1,6 @@
 #Felder und deren Bedeutung
 
-|[events]|[sessions]|[rounds]|[classes]|[divisions]|[categories]|[rounds_categories]|[participants]|[accosiations]|[countries]|[individuals]|[club_teams]|[teams]|[teammembers]|[positions_individuals]|[positions_teams]|[positions_elimination_individuals]|[positions_elimination_teams]|[positions_liga]|[results_individuals]
+ |[events]|[sessions]|[rounds]|[classes]|[divisions]|[categories]|[rounds_categories]|[participants]|[accosiations]|[countries]|[individuals]|[club_teams]|[teams]|[teammembers]|[positions_individuals]|[positions_teams]|[positions_elimination_individuals]|[positions_elimination_teams]|[positions_liga]|[results_individuals]
 :--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 [age_first]| | | |x| | | | | |||||||||||
 [age_last]| | | |x| | | | | |||||||||||
