@@ -19,5 +19,5 @@ Das Feld "limit" wird eingesetzt, wenn die Starter sich für diesem Wettkampf be
 * limit
 
 
-[classes]:
-[divisions]:
+[classes]: kapitel_02_05.md
+[divisions]: kapitel_02_06.md
