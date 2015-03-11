@@ -2,15 +2,22 @@
 
 In dieser Tabelle werden die Starter in einer Qualifikationsphase auf Ihre Startplätze verteilt.
 
-Es wird davon ausgegangen, dass ein Starter über den gesammten Durchgang ("session") den gleichen Startplatz einnimmt. Bei Wettkämpfen im Parcours-Bereich heißt das, dass er in der gleichen Gruppe bleibt.
+Auch wenn davon ausgegangen werden kann, dass ein Starter in der Qualifikationsphase vom gleichen Startplatz schießt wird für jede Runde ein Startplatz eingetragen.
 
-Daher findet keine weitere Differenzierung in den Schlüsselfelder statt. Eine Feld "round_id" wird nicht in eingefügt.
+Im nächsten und letzten Schritt werden die Ergebnisse pro Starter eingetragen. Es werden nur für die Starter Ergebnisse erfasst, die auch einen Startplatz haben.
+
+Diese Herangehensweise sellt sicher, dass nur für gültige Starter ein Ergebnis erfasst werden kann. 
+
+Die Schlüsselfelder in der Tabelle [results_individuals] sind die gleichen wie in dieser Tabelle.
 
 **Schlüsselfelder**
 * event_id
 * session_id
-* position_id
-
-**Felder**
+* round_id
 * participant_id
 * individual_id
+
+**Felder**
+* position_id
+
+[results_individuals]: xx.md
