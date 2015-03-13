@@ -17,25 +17,19 @@
 [foreign_key_divider]|x| | | | | | | | |||||||||||
 [gender]| | | |x| | | |x| |||||||||||
 [individual_id]|||||||||||key||||x|||||x
-[individual_id_left]|||||||||||||||||x|||
-[individual_id_right]|||||||||||||||||x|||
 [last_name]| | | | | | | |x| |||||||||||
 [limit]| | | | | |x| | | |||||||||||
 [middle_name]| | | | | | | |x| |||||||||||
 [number_of_targets]| |x| | | | | | | |||||||||||
 [part_of]| | | | | | | | |x|x||||||||||
 [participant_id]| | | | | | | |key| ||key|||key|x|||||x
-[participant_id_left]|||||||||||||||||x|||
-[participant_id_right]|||||||||||||||||x|||
 [pair_id]|||||||||||||||||key|key|key|
-[position]|||||||||||||||key|key||x|x|key
+[position]|||||||||||||||x|x||x|x|x
 [round_id]| | |key| | | |key| | ||||||key|key|key|key|key|key
 [score]||||||||||||||||||||x
 [session_id]| |key|| | | | | | |||||key|key|key|key|key|key|key
 [starter_per_target]| |x| | | | | | | |||||||||||
 [team_id]|||||||||||||key|key||x||||
-[team_id_left]||||||||||||||||||x|x|
-[team_id_right]||||||||||||||||||x|x|
 [tiebreaker_1]| | | | | | | | | |||||||||||x
 [tiebreaker_2]| | | | | | | | | |||||||||||x
 [tiebreaker_3]| | | | | | | | | |||||||||||x
