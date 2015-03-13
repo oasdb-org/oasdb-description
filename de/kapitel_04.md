@@ -4,19 +4,15 @@ In diesen Tabellen / in diesem Schritt werden die Startplätze der Wettkampfteil
 
 Die Teilnehmern werden auf einen Startplatz gesetzt.
 
-###Qualifikationsphase / -wettkämpfe
-* [Startplätze Einzelstarter][1]
-* [Startplätze Mannschaft][2]
+###Qualifikationsrunde
+* [Startplätze Einzelstarter]
+* [Startplätze Mannschaft]
 
-###Matchphase inklusive Finale
-* [Startplätze Ausscheidungsrunde Einzelstarter][3]
-* [Startplätze Ausscheidungsrunde Mannschaft][4]
+###Matchrunde (Finale, Liga, ...)
+* [Startplätze Ausscheidungsrunde Einzelstarter]
+* [Startplätze Ausscheidungsrunde Mannschaft]
 
-###Ligawettkampf
-* [Startplätze Ligateam][5]
-
-[1]: kapitel_04_01.md
-[2]: kapitel_04_02.md
-[3]: kapitel_04_03.md
-[4]: kapitel_04_04.md
-[5]: kapitel_04_05.md
+[Startplätze Einzelstarter]: kapitel_04_01.md
+[Startplätze Mannschaft]: kapitel_04_02.md
+[Startplätze Ausscheidungsrunde Einzelstarter]: kapitel_04_03.md
+[Startplätze Ausscheidungsrunde Mannschaft]: kapitel_04_04.md
