@@ -12,12 +12,12 @@ Gründe für die Einrichtung von mehreren Durchgängen können sein:
 
 Die Felder [first_target_number] und [last_target_number] erlauben es mehrere "sessions" gleichzeitig auf einem Platz stattfinden zu lassen. Das können beispielsweise Vorentscheidungen in Gruppen sein, wobei jede Gruppe als "session" behandelt wird.
 
-**Schlüsselfelder**
+####Schlüsselfelder
 
 * event_id
 * session_id
 
-**Felder**
+####Felder
 
 * title_short
 * title
