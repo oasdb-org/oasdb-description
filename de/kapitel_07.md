@@ -28,7 +28,7 @@
 [participant_id_left]|||||||||||||||||x|||
 [participant_id_right]|||||||||||||||||x|||
 [pair_id]|||||||||||||||||key|key|key|
-[position_id]|||||||||||||||key|key||x|x|key
+[position]|||||||||||||||key|key||x|x|key
 [round_id]| | |key| | | |key| | ||||||key|key|key|key|key|key
 [score]||||||||||||||||||||x
 [session_id]| |key|| | | | | | |||||key|key|key|key|key|key|key
