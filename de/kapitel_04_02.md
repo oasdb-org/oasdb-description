@@ -9,7 +9,8 @@ Daher findet keine weitere Differenzierung in den Schlüsselfelder statt. Eine F
 **Schlüsselfelder**
 * event_id
 * session_id
-* position_id
+* round_id
+* team_id
 
 **Felder**
-* team_id
+* position
