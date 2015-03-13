@@ -10,6 +10,8 @@ Gründe für die Einrichtung von mehreren Durchgängen können sein:
 * Es gibt Termine "Hauptwettkampf","Vorschießen" und/oder "Nachschießen".
 * Der Wettkampf findet in mehreren Phasen statt. Es gibt "Qualifikationsrunde", "Ausscheidungsrunde", "Finale".
 
+Die Felder [first_target_number] und [last_target_number] erlauben es mehrere "sessions" gleichzeitig auf einem Platz stattfinden zu lassen. Das können beispielsweise Vorentscheidungen in Gruppen sein, wobei jede Gruppe als "session" behandelt wird.
+
 **Schlüsselfelder**
 
 * event_id
@@ -20,6 +22,7 @@ Gründe für die Einrichtung von mehreren Durchgängen können sein:
 * title_short
 * title
 * venue
-* number_of_targets
+* first_target_number
+* last_target_number
 * starter_per_target
 * rules
