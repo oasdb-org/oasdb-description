@@ -28,7 +28,9 @@ event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tie
 ###Beispiele "Im Freien - Gleiche Ringzahl - Platzierung für das Finalschießen"
 *(tiebreaker_1: "10'er+X'er" / tiebreaker_2: "X'er" / tiebreaker_3: "Stechen oder Los")*
 
-Starter "123.1" und "200.1" sind beide die für das Final qualifiziert. Starter "123.1" erhält einen Platz vor Starter "200.1" im Finale, da er im Losverfahren *(Runde 2 - tiebreaker_3)* einen Punkt erhält.
+Starter "123.1" und "200.1" sind beide die für das Final qualifiziert. 
+
+Starter "123.1" erhält im Losverfahren *(Runde 2 - tiebreaker_3)* einen Punkt und damit den Platz vor Starter "200.1".
 
 event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tiebreaker_2|tiebreaker_3
 :------:|:--------:|:------:|:------------:|:-----------:|:---:|:----------:|:----------:|:------:
@@ -55,8 +57,10 @@ event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tie
 2|1|1|093|1|200|10|4|1
 2|1|2|093|1|250|11|8|0
 
-###Beispiele "Ein Starter startet mit zwei verschiedenen Bogenarten"
-In einem Durchgang schießen gleichzeitig Recurve und Compound. Ein Starter hat sich mit für beide Bögen angemeldet und ist mit den Startnummern "123.1" und "123.2". 
+###Beispiele "Ein Starter startet mit verschiedenen Bogenarten"
+Im ersten Durchgang schießen gleichzeitig Recurve und Compound. Ein Starter (älter als 50 Jahre) hat sich mit für beide Bögen angemeldet und ist mit den Startnummern "123.1" und "123.2" vertreten. 
+
+Im zweiten Durchgang starten er, noch eimal in der Olympischen Klasse Recurve. Er erhält die Nummer "123.3".
 
 event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tiebreaker_2|tiebreaker_3
 :------:|:--------:|:------:|:------------:|:-----------:|:---:|:----------:|:----------:|:------:
@@ -64,3 +68,5 @@ event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tie
 2|1|2|123|1|200|10|3|0
 2|1|1|123|2|250|10|2|0
 2|1|2|123|2|250|10|3|0
+2|2|1|123|3|220|10|2|0
+2|2|2|123|3|220|10|3|0
