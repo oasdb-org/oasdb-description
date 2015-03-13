@@ -14,14 +14,14 @@ In diesen Fällen geht man zurück auf den Schritt "Startplatzvergabe".
 * Einzelstarter ([qualification_individual])
 * Mannschaften
 
-**Erfassung Ausscheidungsrudnen**
+**Erfassung Matchrunden**
 
 * Einzelstarter
 * Mannschaften 
 
-**Erfassung Ligawettkampf**
-
-* Mannscharten und Einzelergebnisse
-
 
 [qualification_individual]: kapitel_05_01.md
+[qualification_teams]: kapitel_05_02.md
+
+[matches_indifiduals_results]: kapitel_05_03.md
+[matches_teams_results]: kapitel_05_04.md
