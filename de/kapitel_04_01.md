@@ -24,10 +24,12 @@ Die Schlüsselfelder in der Tabelle [results_individuals] sind die gleichen wie 
 ###Beispiel
 
 event_id|session_id|round_id|participant_id|individual_id|position|Beschreibung
-:------:|:--------:|:------:|:------------:|:-----------:|:------:|:-
-1|1|1|230|1|10A|Starter 1.230.1 hat in der ersten Runde im ersten Durchgang Startplatz 10A
-1|1|2|230|1|10A|Starter 1.230.1 hat in der zweiten Runde im ersten Durchgang Startplatz 10A
-1|2|1|230|2|3B|Starter 1.230.2 hat in der ersten Runde im zweiten Durchgang Startplatz 3B
+:------:|:--------:|:------:|:------------:|:-----------:|:------:|:-----------
+1|1|1|230|1|10A|Starter 230.1 hat in der ersten Runde im ersten Durchgang Startplatz 10A
+1|1|2|230|1|10A|Starter 230.1 hat in der zweiten Runde im ersten Durchgang Startplatz 10A
+1|2|1|230|2|3A|Starter 230 tritt im zweiten Durchgang mit einem anderen Bogen an und hat in der ersten Runde Startplatz 3A
+1|2|1|101|1|3B|Neben ihm steht Starter 101 der nur in einer Kategorie startet
+
 
 
 [results_individuals]: kapitel_05_01.md
