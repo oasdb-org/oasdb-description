@@ -9,7 +9,7 @@ Da sich die Besetzung der Startplätze erst im Wettkampfgeschehen ergibt (siehe 
 **Schlüsselfelder**
 * event_id
 * session_id
-* match_id
+* round_id
 * pair_id
 * team_id
 
