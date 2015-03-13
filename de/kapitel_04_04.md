@@ -11,10 +11,9 @@ Da sich die Besetzung der Startplätze erst im Wettkampfgeschehen ergibt (siehe 
 * session_id
 * match_id
 * pair_id
+* team_id
 
 **Felder**
-* title_short
-* left_team_id
-* right_team_id
+* position
 
 [Match]: kapitel_08_match.md "Match-Runden"
