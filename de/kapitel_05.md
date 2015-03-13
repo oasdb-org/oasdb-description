@@ -11,17 +11,17 @@ In diesen Fällen geht man zurück auf den Schritt "Startplatzvergabe".
 
 **Erfassung Qualifikationsrunden**
 
-* Einzelstarter ([qualification_individual])
-* Mannschaften ([qualification_teams])
+* Einzelstarter ([results_individual])
+* Mannschaften ([results_teams])
 
 **Erfassung Matchrunden** (Finale, Liga, ...)
 
-* Einzelstarter ([matches_indifiduals_results])
-* Mannschaften ([matches_teams_results])
+* Einzelstarter ([results_matches_individuals])
+* Mannschaften ([results_matches_teams])
 
 
-[qualification_individual]: kapitel_05_01.md
-[qualification_teams]: kapitel_05_02.md
+[results_individual]: kapitel_05_01.md
+[results_teams]: kapitel_05_02.md
 
-[matches_indifiduals_results]: kapitel_05_03.md
-[matches_teams_results]: kapitel_05_04.md
+[results_matches_individuals]: kapitel_05_03.md
+[results_matches_teams]: kapitel_05_04.md
