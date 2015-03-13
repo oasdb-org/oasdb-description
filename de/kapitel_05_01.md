@@ -40,14 +40,16 @@ event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tie
 ###Beispiele "Halle - Gleiche Ringzahl - Einzug ins Finale"
 *(tiebreaker_1: "10'er" / tiebreaker_2: "9'er" tiebreaker_3: "Stechen oder Los")*
 
-Starter "123.1", "200.1" und "093.1" sind ringgleich. Nach der Ringzahl hätten alle Drei Anspruch auf den letzten Platz im Finalschießen. Die Anzahl der "10'er" und "9'er" wird dabei nicht berücksichtigt.
+Starter "123.1", "200.1" und "093.1" sind ringgleich. Da die Anzahl der "10'er" und "9'er" dabei nicht berücksichtigt wird, hätten alle Drei Anspruch auf den letzten Platz im Finalschießen.
 
-Es wird ein Stechen mit den drei Startern veranstaltet, bei dem Starter "093.1" das Stechen gewinnt und in (Runde 2 - tiebreaker_3) einen Punkt erhält.
+Es wird ein Stechen veranstaltet, bei dem Starter "093.1" das Stechen gewinnt und in (Runde 2 - tiebreaker_3) einen Punkt erhält. Er zieht damit ins Finale. 
+
+Die Plazierungen innerhalb der Qualifikationsrunde bleiben davon unberührt, da in diesem Fall "tiebreaker_3" nicht ausgewertet wird.
 
 event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tiebreaker_2|tiebreaker_3
 :------:|:--------:|:------:|:------------:|:-----------:|:---:|:----------:|:----------:|:------:
 2|1|1|123|1|200|10|4|0
-2|1|2|123|1|250|10|2|0
+2|1|2|123|1|250|12|2|0
 2|1|1|200|1|200|12|4|0
 2|1|2|200|1|250|13|2|0
 2|1|1|093|1|200|10|4|1
