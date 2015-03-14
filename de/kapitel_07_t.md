@@ -1,6 +1,7 @@
 ## tiebreaker
+*(Ganzzahl)*
 
-Die numerischen Felder "tiebreaker_1", "tiebreaker_2" und "tiebreaker_3" sind zusätzliche Felder in der Ergebniserfassung, die bei gleicher Ringzahl eine Platzierung erlauben. 
+Die Felder "tiebreaker_1", "tiebreaker_2" und "tiebreaker_3" sind zusätzliche Felder in der Ergebniserfassung, die bei gleicher Ringzahl eine Platzierung erlauben. 
 
 Am Beispiel Hallen-Runde-Qualifikation kann das sein:
 * **tiebraker_01**: Anzahl der 10'er
@@ -8,12 +9,15 @@ Am Beispiel Hallen-Runde-Qualifikation kann das sein:
 * **tiebraker_03**: Ergebnis von Los oder Stechen für die Plazierung im Finale
 
 ##title
+*(Variables Textfeld)*
 
-Langes Textfeld
+Beinhaltet ausgeschriebene Textinformationen, in der Regel Titel.
 
 ## title-short
+*(Variables Textfeld - Längenbegrenzung)*
 
 Kurzes Textfeld; In der Regel maximal 20 Zeichen.
 
 
 [tie-break wiki]: http://de.m.wikipedia.org/wiki/Tie-Break
+
