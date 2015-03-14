@@ -32,3 +32,5 @@ Im Feld [session_type] wird angegeben welche Art von Wettkampf in diesem Durchga
 ###Beispiel
 
 [session_type]: kapitel_07_s.md#session_type
+[first_target_number]: kapitel_07_n.md#number_of_targets
+[last_target_number]: kapitel_07_n.md#number_of_targets
