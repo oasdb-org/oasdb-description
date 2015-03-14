@@ -9,12 +9,12 @@ Die erfassten Ergebnisse können aber auch Grundlage für die Fortführung des W
 
 In diesen Fällen geht man zurück auf den Schritt "Startplatzvergabe".
 
-**Erfassung Qualifikationsrunden**
+**Erfassung Kumulative Zählung** 
 
 * Einzelstarter ([results_individual])
 * Mannschaften ([results_teams])
 
-**Erfassung Matchrunden** (Finale, Liga, ...)
+**Erfassung Matches** (Finale, Liga, ...)
 
 * Einzelstarter ([results_matches_individuals])
 * Mannschaften ([results_matches_teams])
