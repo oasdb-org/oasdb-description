@@ -4,11 +4,11 @@ In diesen Tabellen / in diesem Schritt werden die Startplätze der Wettkampfteil
 
 Die Teilnehmern werden auf einen Startplatz gesetzt.
 
-###Qualifikationsrunde
+###Kumulative Zählung
 * [Startplätze Einzelstarter]
 * [Startplätze Mannschaft]
 
-###Matchrunde (Finale, Liga, ...)
+###Match (Finale, Liga, ...)
 * [Startplätze Ausscheidungsrunde Einzelstarter]
 * [Startplätze Ausscheidungsrunde Mannschaft]
 
