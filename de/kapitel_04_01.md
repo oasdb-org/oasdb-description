@@ -8,17 +8,17 @@ Im nächsten und letzten Schritt werden die Ergebnisse pro Starter eingetragen. 
 
 Diese Herangehensweise sellt sicher, dass nur für gültige Starter ein Ergebnis erfasst werden kann. 
 
-Die Schlüsselfelder in der Tabelle [results_individuals] sind die gleichen wie in dieser Tabelle.
+
 
 ####Schlüsselfelder
 * event_id
 * session_id
 * round_id
-* participant_id
-* individual_id
+* position
 
 ####Felder
-* position
+* participant_id
+* individual_id
 
 
 ###Beispiel
