@@ -12,17 +12,23 @@ Gründe für die Einrichtung von mehreren Durchgängen können sein:
 
 Die Felder [first_target_number] und [last_target_number] erlauben es mehrere "sessions" gleichzeitig auf einem Platz stattfinden zu lassen. Das können beispielsweise Vorentscheidungen in Gruppen sein, wobei jede Gruppe als "session" behandelt wird.
 
+Im Feld [session_type] wird angegeben welche Art von Wettkampf in diesem Durchgang durchgeführt wird. Dies ist an dieser Stelle nötig, da sich diese Auswahl auf die Nutzung nachfolgenden Tabellen und Feldern auswirkt.
+
 ####Schlüsselfelder
 
-* event_id
-* session_id
+* [event_id]
+* [session_id]
 
 ####Felder
 
-* title_short
-* title
-* venue
-* first_target_number
-* last_target_number
-* starter_per_target
-* rules
+* [title_short]
+* [title]
+* [venue]
+* [first_target_number]
+* [last_target_number]
+* [starter_per_target]
+* [session_type]
+
+###Beispiel
+
+[session_type]: kapitel_07_s.md#session_type
