@@ -33,4 +33,4 @@ Bezogen auf ”NOC” würde ”title” den Namen der Nation enthalten und ”t
 2|11|TSG|Turn- und Sportgemeinschaft|1|"TSG" ist auch im "Landesverband 1" organisiert 
 2|12|BSV|Bogensportverein|2|"BSV" ist im "Landesverband 2" organisiert 
 ...|...|...|...|...|
-3|1|DE|Deutschland|<null>|Event 3 ist ein internationales Turnier.
+3|1|DOSB|Deutscher Olympischer Sportbund|<null>|Event 3 ist ein internationales Turnier.
