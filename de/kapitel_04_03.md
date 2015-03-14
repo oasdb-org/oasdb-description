@@ -6,16 +6,17 @@ Somit können vor Wettkampfbeginn festgelegt werden
 
 Da sich die Besetzung der Startplätze erst im Wettkampfgeschehen ergibt (siehe [Match]) müssen/können die Positionen erst im laufenden Betrieb besetzt werden.
 
-**Schlüsselfelder**
+####Schlüsselfelder
 * event_id
 * session_id
 * round_id
+* position
+
+####Felder
 * pair_id
 * participant_id
 * invividual_id
 
-**Felder**
-* position
 
 ###Beispiel Finalrunde
 
