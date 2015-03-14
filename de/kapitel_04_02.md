@@ -10,7 +10,7 @@ Daher findet keine weitere Differenzierung in den Schlüsselfelder statt. Eine F
 * event_id
 * session_id
 * round_id
-* team_id
+* position
 
 **Felder**
-* position
+* team_id
