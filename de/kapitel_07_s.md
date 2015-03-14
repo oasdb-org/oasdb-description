@@ -3,18 +3,18 @@ Numerisches Feld
 ##session_type
 *(Vorgegebene Werte aus drei Buchstaben)*
 * 1.Buchstabe **I**ndividual / **T**eam
-* 2.Buchstabe **M**atch / **Q**ualifikation
+* 2.Buchstabe **K**umulativ / **M**atch
 * 3.Buchstabe **R**ingwertung / **P**unktwertung
 
 Daraus folgen diese Kombinationen
-* **"IQR"** Individual Qualifikation Ringwertung (z.B. 720'er Runde)
-* **"IQP"** *Individual Qualifikation Punktwertung (bisher nicht genutzt)*
-* **"IMR"** Individual Match Ringwertung (Ausscheidungsrunde Compound)
-* **"IMP"** Individual Match Punktwertung (Ausscheidungsrunde Recurve, )
-* **"TQR"** Team Qualifikation Ringwertung
-* **"TQP"** *Team Qualifikation Punktwertung (bisher nicht genutzt)*
-* **"TMR"** Team Match Ringwertung
-* **"TMP"** Team Match Punktwertung (Ausscheidungsrunde Recurve, Liga)
+* **"IKR"** Individual Kumulativ Ringwertung (z.B. 720'er Runde)
+* **"IKP"** Individual Kumulativ Punktwertung
+* **"IMR"** Individual Match Ringwertung (z.B. Ausscheidungsrunde Compound)
+* **"IMP"** Individual Match Punktwertung (z.B. Ausscheidungsrunde Recurve)
+* **"TKR"** Team Kumulativ Ringwertung (z.B. 720'er Runde)
+* **"TKP"** Team Kumulativ Punktwertung (z.B. Akademische Runde)
+* **"TMR"** Team Match Ringwertung ()
+* **"TMP"** Team Match Punktwertung (z.B. Ausscheidungsrunde Recurve, Liga)
 
 ##starter_per_target
 Numerisches Feld
