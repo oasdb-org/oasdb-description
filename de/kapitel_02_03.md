@@ -28,21 +28,16 @@ Im Feld [session_type] wird angegeben welche Art von Wettkampf in diesem Durchga
 * [last_target_number]
 * [starter_per_target]
 * [session_type]
+* [rounds_per_session]
+* [ends_per_round]
+* [arrows_per_end]
+
 
 ###Beispiel
+[event_id]|[session_id]|[title_short]|[title]|[venue]|[first_target_number]|[last_target_number]|[starter_per_target]|[session_type]|[rounds_per_session]|[ends_per_round]|[arrows_per_end]|Beschreibung
+:--------:|:----------:|:-----------:|:-----:|:-----:|:-------------------:|:------------------:|:------------------:|:------------:|:------------------:|:--------------:|:--------------:|:--
+
 <table>
-<tr>
-  <td>[event_id]</td>
-  <td>[session_id]</td>
-  <td>[title_short]</td>
-  <td>[title]</td>
-  <td>[venue]</td>
-  <td>[first_target_number]</td>
-  <td>[last_target_number]</td>
-  <td>[starter_per_target]</td>
-  <td>[session_type]</td>
-  <td>Beschreibung</td>
-</tr>
 <tr>
   <td>1</td>
   <td>1</td>
