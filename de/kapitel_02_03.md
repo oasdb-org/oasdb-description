@@ -36,72 +36,12 @@ Im Feld [session_type] wird angegeben welche Art von Wettkampf in diesem Durchga
 ###Beispiel
 [event_id]|[session_id]|[title_short]|[title]|[venue]|[first_target_number]|[last_target_number]|[starter_per_target]|[session_type]|[rounds_per_session]|[ends_per_round]|[arrows_per_end]|Beschreibung
 :--------:|:----------:|:-----------:|:-----:|:-----:|:-------------------:|:------------------:|:------------------:|:------------:|:------------------:|:--------------:|:--------------:|:--
+1|1|vor2015|Vorschießen 720'er - Runde|Sportplatz|5|7|4|IKR|2|6|6|Vorschießen für die Meisterschaft mit drei Scheiben
+1|2|VM 2015|Vereinsmeisterschaft 720'er - Runde|Sportplatz|1|10|4|IKR|2|6|6|Vereinsmeisterschaft Meisterschaft mit 10 Scheiben
+--|
+2|2|Aus-R|Ausscheidungsrunde Recurve (Viertel- bis Goldfinale)|Sportplatz|2|5|2|IMP|4|5|6|Ausscheidungsrunde Recurve auf Scheibe 2 bis 5
+2|2|Aus-C|Ausscheidungsrunde Compound (Viertel- bis Goldfinale)|Sportplatz|6|9|2|IMR|4|3|6|Ausscheidungsrunde Compound auf Scheibe 6 bis 9
 
-<table>
-<tr>
-  <td>1</td>
-  <td>1</td>
-  <td>vor</td>
-  <td>Vorschießen 720'er - Runde</td>
-  <td>Sportplatz</td>
-  <td>5</td>
-  <td>7</td>
-  <td>4</td>
-  <td>IKR</td>
-  <td>Vorschießen für die Meisterschaft mit 10 Scheiben </td>
-</tr>
-<tr>
-  <td>1</td>
-  <td>2</td>
-  <td>720'er</td>
-  <td>720'er - Runde</td>
-  <td>Sportplatz</td>
-  <td>1</td>
-  <td>10</td>
-  <td>4</td>
-  <td>IKR</td>
-  <td>Meisterschaft mit 10 Scheiben </td>
-</tr>
-<tr>
-  <td colspan="9">&nbsp;</td>
-</tr>
-<tr>
-  <td>2</td>
-  <td>1</td>
-  <td>Quali</td>
-  <td>720'er - Runde</td>
-  <td>Sportplatz</td>
-  <td>1</td>
-  <td>10</td>
-  <td>4</td>
-  <td>IKR</td>
-  <td>Qualifikationsphase auf zehn Scheiben</td>
-</tr>
-<tr>
-  <td>2</td>
-  <td>2</td>
-  <td>Aus-R</td>
-  <td>Ausscheidungsrunde Recurve (Viertel- bis Goldfinale)</td>
-  <td>Sportplatz</td>
-  <td>2</td>
-  <td>5</td>
-  <td>2</td>
-  <td>IMP</td>
-  <td>Ausscheidungsrunde Recurve auf Scheibe 2 bis 5</td>
-</tr>
-<tr>
-  <td>2</td>
-  <td>3</td>
-  <td>Aus-C</td>
-  <td>Ausscheidungsrunde Compound (Viertel- bis Goldfinale)</td>
-  <td>Sportplatz</td>
-  <td>6</td>
-  <td>9</td>
-  <td>2</td>
-  <td>IMR</td>
-  <td>Ausscheidungsrunde Compound auf Scheibe 6 bis 9</td>
-</tr>
-</table>
 
 [session_type]: kapitel_07_s.md#session_type
 [first_target_number]: kapitel_07_n.md#number_of_targets
