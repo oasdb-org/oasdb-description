@@ -10,6 +10,13 @@ Angaben über Austragungsort "venue" wurden bewusst in die Tabelle ”[sessions]
 
 Da ein Durchgang aus mehreren Teilen bestehn kann ergibt sich der Zeitplan der Veranstaltung aus den Zeitangaben der Teile der Durchgänge "sessions_parts".
 
+Um eine klare Benennung der Felder zu gewährleisten werden die umgangssprachlichen Namen der Datenbankfelder im Feld [labels] mitgeführt. Hier ist die Benennung der Felder "tiebreaker_1", "tiebreaker_2" und "tiebreaker_3" von besonderer Bedeutung. 
+
+Abhängig von der Art des Wettkampfes steht
+* "tiebreaker_1" für "10'er", "10er+Xer", "5er"
+* "tiebreaker_2" für "9'er", "Xer", "6er"
+* "tiebreaker_3" steht für "Gewinner Stechen" oder "Münzwurf"
+
 ####Schlüsselfelder
 
 * event_id
@@ -19,6 +26,8 @@ Da ein Durchgang aus mehreren Teilen bestehn kann ergibt sich der Zeitplan der V
 * title_short
 * title
 * foreign_key_divider
+* [labels]
 * championship_id
 
 [sessions]: kapitel_02_03.md
+[labels]: kapitel_07_l.md#labels
