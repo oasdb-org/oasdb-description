@@ -1,17 +1,17 @@
 ##Tabelle ”results_individuals”
 
 ####Schlüsselfelder
-* event_id
-* session_id
-* round_id
-* participant_id
-* individual_id
+* [event_id]
+* [session_id]
+* [round_id]
+* [participant_id]
+* [individual_id]
 
 ####Felder
-* score
-* tiebreaker_1
-* tiebreaker_2
-* tiebreaker_3
+* [score]
+* [tiebreaker_1]
+* [tiebreaker_2]
+* [tiebreaker_3]
 
 ###Beispiele "Feldbogen - Gleiche Ringzahl - 6'er entscheiden"
 *(tiebreaker_1: "5'er+6'er" / tiebreaker_2: "6'er" / tiebreaker_3: "Stechen oder Los")*
