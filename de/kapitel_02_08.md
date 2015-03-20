@@ -16,13 +16,33 @@ Die Festlegung der tatsächlichen Entferungen und Scheibenauflagen geschieht in 
 
 ####Schlüsselfelder
 
-* event_id
-* round_id 
+* [event_id]
+* [round_id]
 
 ####Felder
 
-* title_short 
-* title 
+* [title_short]
+* [title]
+
+###Beispiel
+
+event_id|round_id|title_short|title|Bemerkung
+:------:|:------:|:---------:|:----|:--------
+1|1|1|Runde 1|720' Runde 1
+1|2|2|Runde 2|720' Runde 2
+..|
+2|1|1|1. Entfernung|1440'er Runde
+2|2|2|2. Entfernung|1440'er Runde
+2|3|3|3. Entfernung|1440'er Runde
+2|4|4|4. Entfernung|1440'er Runde
+..|
+3|1|unb.|Unbekannte Entfernungen|Feldbogenrunde
+3|2|bek.|Bekannte Entfernungen|Feldbogenrunde
+..|
+4|1|4tel|Viertelfinale|Ausscheidungsrunde mit Finale
+4|2|halb|Halbfinale|Ausscheidungsrunde mit Finale
+4|3|br.Fin|Bronze-Finale|Ausscheidungsrunde mit Finale
+4|4|finale|Gold-Finale|Ausscheidungsrunde mit Finale
 
 [categories_rounds]: 
 [sessions]:
