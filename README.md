@@ -5,7 +5,7 @@ Es soll eine gut dokumentierte Plattform geschaffen werden, auf der Archive, Pro
 
 Die in der Beschreibung verwendeten Begriffe orientieren sich an der englischen Version des WorldArchery Regelwerkes [http://www.worldarchery.org/HOME/Rules/Constitution-Rules][1].
 
-Es wurden auch einige neue Begriffe eingeführt. (z.B. "tiebreaker", "position", ...)
+Es wurden einige neue Begriffe eingeführt. (z.B. "tiebreaker", "position", ...)
 
 Die Beschreibung entsteht vorerst in Deutsch und wird ins Englische übertragen. Ziel ist es die Versionen inhaltlich identisch zu halten.
 
