@@ -1,9 +1,11 @@
 #OpenArcheryScroreDatabase (oasdb) - in Bearbeitung / in process
 Ziel des Projekten ist es eine eine SQL-Datenbank zu beschreiben in der Informationen gespeichert werden können die bei einem Bogensport-Wettkampf anfallen.
 
-Es soll eine gut dokumentierte Plattform geschaffen werden, auf der Programmierer aufbauen können um Anwendungen zu schreiben.
+Es soll eine gut dokumentierte Plattform geschaffen werden, auf der Archive, Programme, ... geschaffen werden können.
 
 Die in der Beschreibung verwendeten Begriffe orientieren sich an der englischen Version des WorldArchery Regelwerkes [http://www.worldarchery.org/HOME/Rules/Constitution-Rules][1].
+
+Es wurden auch einige neue Begriffe eingeführt. (z.B. "tiebreaker", "position", ...)
 
 Die Beschreibung entsteht vorerst in Deutsch und wird ins Englische übertragen. Ziel ist es die Versionen inhaltlich identisch zu halten.
 
