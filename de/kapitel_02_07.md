@@ -14,14 +14,16 @@ Das Feld "limit" wird eingesetzt, wenn die Starter sich für diesem Wettkampf be
 
 ####Felder
 
-* title_short
-* title
 * limit
 
 ###Beispiel
 
-event_id|class_id|division_id|title_short|title|limit
-:------:|:------:|:---------:|:---------:|:---:|:---
+event_id|class_id|division_id|limit|Bemerkung
+:------:|:------:|:---------:|:---:|:---
+1|1|1|560|Teilnehmer "Recurve Men" Dürfen teilnehmen wenn sie 560 Ringe nachweisen
+...|
+
+
 
 
 
