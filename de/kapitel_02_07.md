@@ -18,6 +18,12 @@ Das Feld "limit" wird eingesetzt, wenn die Starter sich für diesem Wettkampf be
 * title
 * limit
 
+###Beispiel
+
+event_id|class_id|division_id|title_short|title|limit
+:------:|:------:|:---------:|:---------:|:---:|:---
+
+
 
 [classes]: kapitel_02_05.md
 [divisions]: kapitel_02_06.md
