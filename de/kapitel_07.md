@@ -13,6 +13,7 @@
 [division_id]| | | | |key|key|key| | ||x|x||x||||||
 [event_id]|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key|key
 [face]| | | | | | |x| | |||||||||||
+[fee]| | | | | | | | | |||||||||||
 [first_name]| | | | | | | |x| |||||||||||
 [foreign_key_divider]|x| | | | | | | | |||||||||||
 [gender]| | | |x| | | |x| |||||||||||
@@ -68,6 +69,7 @@
 [event_id]: kapitel_07_e.md#event_id
 
 [face]: kapitel_07_f.md#face
+[fee]: kapitel_07_f.md#fee
 [first_name]:kapitel_07_f.md#first_name
 [foreign_key_divider]: kapitel_07_f.md#foreign_key_divider
 
