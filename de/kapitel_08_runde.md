@@ -1,5 +1,5 @@
 ##Runde
-In der Datenstruktur wird das Wort "Runde/round" nur in der Bedeutung "Anzahl von Passen" verwandt.
+In dieser Datenstruktur wird das Wort "Runde/round" in der Bedeutung "Anzahl von Passen" verwandt.
 
 ###Herleitung
 Der Begriff "Runde" wird in mehreren Bedeutungen verwand. Die mehrfache Bedeutung ist in den Sprachgebrauch übergegangen was man verschiedenen Veröffentlichungen nachlesen kann (z.B. [WA-Regeln Buch 2 Artikel 4.5](http://rulebook.worldarchery.org/PDF/Official/2015-01-01/EN-Book2.pdf) , [DBSV-Wettkampfordnung](http://www.dbsv1959.de/index.php/sport/wettkampfordnung), [Sport-Definitionen](http://www.sportsdefinitions.com/archery/Round.html)) und was zu Missverständnissen führen kann. 
