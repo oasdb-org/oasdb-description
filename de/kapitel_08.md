@@ -9,10 +9,10 @@ Die Begriffe die in dieser Beschreibung verwand werden in andern Veröffentlichu
 * [NOC](kapitel_08_noc.md)
 
 ##Abbildung von Wettkämpfen
-* 720'er Runde an einem Tag
+* [720'er Runde an einem Tag]
 * 1440'er Runde an zwei Tagen
 * [Liga-Wettkampf mit vier Wettkampftagen]
-* 
 
 
 [Liga-Wettkampf mit vier Wettkampftagen]: kapitel_08_10.md
+[720'er Runde an einem Tag]: kapitel_08_720.md
