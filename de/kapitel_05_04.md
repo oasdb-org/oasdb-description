@@ -29,7 +29,7 @@ event_id|session_id|round_id|pair_id|team_id|score|setpoints|matchpoints|Beschre
 1|1|2|3|007|50|2|0|"Team D (id 007)" und gewinnt mit 6:2. "Team A" erhält somit 2 Matchpunkte
 
 ###Beispiel "Compound - Match mit kummulierender Zählung"
-*(Die "setpoints" werden nicht beachtet.)*
+*(Die "setpoints" werden nicht beachtet. Bei "kummulierender Zählung" werden die Ringe nach ...-Passen/Sets zur Bestimmung des Siegers herangezogen)*
 
 event_id|session_id|round_id|pair_id|team_id|score|setpoints|matchpoints|Beschreibung
 :------:|:--------:|:------:|:-----:|:-----:|:---:|:-------:|:---------:|:-----------
