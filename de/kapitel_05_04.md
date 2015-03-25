@@ -34,14 +34,14 @@ event_id|session_id|round_id|pair_id|team_id|score|setpoints|matchpoints|Beschre
 21|3|1|1|005|45|0|0|In der ersten Ausscheidungsrunde schießt Team A(id 005) 45 Ringe gegen"
 21|3|1|1|004|50|0|2|"Team B (id 004)", dass 50 Ringe schießt. Damit holt "B" zwei Matchpunkte.
 
-[event_id]
-[session_id]
-[round_id]
-[pair_id]
-[team_id]
-[score]
-[setpoints]
-[matchpoints]
+[event_id]:kapitel_07.md
+[session_id]:kapitel_07.md
+[round_id]:kapitel_07.md
+[pair_id]:kapitel_07.md
+[team_id]:kapitel_07.md
+[score]:kapitel_07.md
+[setpoints]:kapitel_07.md
+[matchpoints]:kapitel_07.md
 
 
 [Match]: kapitel_08_match.md "Match-Runden"
