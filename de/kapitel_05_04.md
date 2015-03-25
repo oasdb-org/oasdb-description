@@ -29,10 +29,11 @@ event_id|session_id|round_id|pair_id|team_id|score|setpoints|matchpoints|Beschre
 1|1|2|3|007|50|2|0|"Team D (id 007)" und gewinnt mit 6:2. "Team A" erhält somit 2 Matchpunkte
 
 ###Beispiel "Compound - Match mit kummulierender Zählung"
+*(Die "setpoints" werden nicht beachtet.)*
 event_id|session_id|round_id|pair_id|team_id|score|setpoints|matchpoints|Beschreibung
 :------:|:--------:|:------:|:-----:|:-----:|:---:|:-------:|:---------:|:-----------
-21|3|1|1|005|45|0|0|In der ersten Ausscheidungsrunde schießt Team A(id 005) 45 Ringe gegen"
-21|3|1|1|004|50|0|2|"Team B (id 004)", dass 50 Ringe schießt. Damit holt "B" zwei Matchpunkte.
+21|3|1|1|005|53|0|0|In der ersten Ausscheidungsrunde schießt Team A(id 005) 53 Ringe gegen"
+21|3|1|1|004|55|0|2|"Team B (id 004)", dass 55 Ringe schießt. Damit holt "B" zwei Matchpunkte.
 
 [event_id]:kapitel_07.md
 [session_id]:kapitel_07.md
