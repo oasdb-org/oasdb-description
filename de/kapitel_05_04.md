@@ -8,26 +8,40 @@ Somit können vor Wettkampfbeginn festgelegt werden
 Da sich die Besetzung der Startplätze erst im Wettkampfgeschehen ergibt (siehe [Match]) müssen/können die Positionen erst im laufenden Betrieb besetzt werden.
 
 ####Schlüsselfelder
-* event_id
-* session_id
-* round_id
-* pair_id
-* team_id
+* [event_id]
+* [session_id]
+* [round_id]
+* [pair_id]
+* [team_id]
 
 ####Felder
-* setpoints
-* matchpoints
+* [score]
+* [setpoints]
+* [matchpoints]
 
 ###Beispiel "Liga"
-event_id|session_id|round_id|pair_id|team_id|setpoints|matchpoints|Beschreibung
-:------:|:--------:|:------:|:-----:|:-----:|:-------:|:---------:|:-----------
-1|1|1|1|005|0|0|Am ersten Spieltag verliert im ersten Match "Team A (id 5)"
-1|1|1|1|004|6|2|"Team B (id 4)" mit "0:6". "Team B" erhält somit 2 Matchpunkte
+event_id|session_id|round_id|pair_id|team_id|score|setpoints|matchpoints|Beschreibung
+:------:|:--------:|:------:|:-----:|:-----:|:---:|:-------:|:---------:|:-----------
+1|1|1|1|005|45|0|0|Am ersten Spieltag verliert im ersten Match "Team A (id 005)"
+1|1|1|1|004|50|6|2|"Team B (id 004)" mit "0:6". "Team B" erhält somit 2 Matchpunkte
 1|1|1|...|...|...|...|
-1|1|2|3|005|6|2|Im zweiten Match trifft "Team A (id 5)" auf
-1|1|2|3|007|2|0|"Team D (id 7)" und gewinnt mit 6:2. "Team A" erhält somit 2 Matchpunkte
+1|1|2|3|005|53|6|2|Im zweiten Match trifft "Team A (id 005)" auf
+1|1|2|3|007|50|2|0|"Team D (id 007)" und gewinnt mit 6:2. "Team A" erhält somit 2 Matchpunkte
 
-###Beispiel "Compound - kummulierendes System"
+###Beispiel "Compound - Match mit kummulierender Zählung"
+event_id|session_id|round_id|pair_id|team_id|score|setpoints|matchpoints|Beschreibung
+:------:|:--------:|:------:|:-----:|:-----:|:---:|:-------:|:---------:|:-----------
+21|3|1|1|005|45|0|0|In der ersten Ausscheidungsrunde schießt Team A(id 005) 45 Ringe gegen"
+21|3|1|1|004|50|0|2|"Team B (id 004)", dass 50 Ringe schießt. Damit holt "B" zwei Matchpunkte.
+
+[event_id]
+[session_id]
+[round_id]
+[pair_id]
+[team_id]
+[score]
+[setpoints]
+[matchpoints]
 
 
 [Match]: kapitel_08_match.md "Match-Runden"
