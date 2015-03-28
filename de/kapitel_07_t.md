@@ -6,7 +6,7 @@ Die Felder "tiebreaker_1", "tiebreaker_2" und "tiebreaker_3" sind zusätzliche F
 Am Beispiel Hallen-Runde-Qualifikation kann das sein:
 * **tiebraker_01**: Anzahl der 10'er
 * **tiebraker_02**: Anzahl der 9'er
-* **tiebraker_03**: Ergebnis von Los oder Stechen für die Plazierung im Finale
+* **tiebraker_03**: Ergebnis von Los oder Stechen *(z.B. für die Plazierung im Finale oder die Entscheidung eines Matches bei Gleichstand zum letzten Satz)*
 
 ##title
 *(Variables Textfeld)*
