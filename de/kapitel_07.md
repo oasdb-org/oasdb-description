@@ -48,10 +48,13 @@
 [categories]:kapitel_02_07.md
 [divisions]:kapitel_02_06.md
 [rounds_categories]:kapitel_02_09.md
-[participants]:
-[accosiations]:
-[countries]:
-
+[participants]:kapitel_03_03.md
+[accosiations]:kapitel_03_01.md
+[countries]:kapitel_03_02.md
+[individuals]:kapitel_03_04.md
+[club_teams]:kapitel_03_06.md
+[teams]:kapitel_03_07.md
+[teammembers]:kapitel_03_08.md
 
 
 
