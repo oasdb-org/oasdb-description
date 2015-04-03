@@ -70,3 +70,14 @@ event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tie
 2|1|2|123|2|250|10|3|0
 2|2|1|123|3|220|10|2|0
 2|2|2|123|3|220|10|3|0
+
+
+[event_id]:kapitel_07.md
+[session_id]:kapitel_07.md
+[round_id]:kapitel_07.md
+[participant_id]:kapitel_07.md
+[individual_id]:kapitel_07.md
+[score]:kapitel_07.md
+[tiebreaker_1]:kapitel_07.md
+[tiebreaker_2]:kapitel_07.md
+[tiebreaker_3]:kapitel_07.md
