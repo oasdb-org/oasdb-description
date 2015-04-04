@@ -46,3 +46,13 @@ Im Feld [session_type] wird angegeben welche Art von Wettkampf in diesem Durchga
 [session_type]: kapitel_07_s.md#session_type
 [first_target_number]: kapitel_07_n.md#number_of_targets
 [last_target_number]: kapitel_07_n.md#number_of_targets
+
+[title_short]: kapitel_07.md
+[title]: kapitel_07.md
+[venue]: kapitel_07.md
+[starter_per_target]: kapitel_07.md
+[rounds_per_session]: kapitel_07.md
+[ends_per_round]: kapitel_07.md
+[arrows_per_end]: kapitel_07.md
+[event_id]: kapitel_07.md
+[session_id]: kapitel_07.md
