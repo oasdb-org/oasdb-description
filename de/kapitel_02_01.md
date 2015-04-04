@@ -1,14 +1,12 @@
 ##Tabelle ”events”
 
-Die Tabelle ”events” enthält alle allgemeinen Informationen über den Wettkampf. 
+Als "event" wird eine Veranstaltung angesehen, bei der es am Ende Platzierungen in verscheidenen Kategorien gibt. Es ist möglich, dass die Veranstaltung in aus mehreren Durchgängen "[sessions]" (*z.B. "Qualifikation, "Ausscheidungsrunde", ...*) besteht.
 
-Als "event" wird eine Veranstaltung angesehen, bei der es am Ende Platzierungen in verscheidenen Kategorien geben kann. Es ist möglich, dass die Veranstaltung in aus mehreren Durchgängen "[sessions]" (*z.B. "Qualifikation, "Ausscheidungsrunde", ...*) besteht.
-
-Details über ”Durchgänge”, ”Zeitplan innerhalb der Durchgänge”, ”Zusätzliche Texte, Hinweise, Bilder” werden in separaten Tabellen eingetragen.
+Die Tabelle "events" enthält nur grundlegende Informationen über die Veranstaltung. Details über ”Durchgänge”, ”Zeitplan innerhalb der Durchgänge”, ”Zusätzliche Texte, Hinweise, Bilder” werden in separaten Tabellen eingetragen.
 
 Angaben über Austragungsort "venue" wurden bewusst in die Tabelle ”[sessions]” ausgelagert. Werden mehrere Austragungsorte festgelegt, so lassen sich diese in einer Liste unter Angabe des Durchganges auflisten.
 
-Da ein Durchgang aus mehreren Teilen bestehn kann ergibt sich der Zeitplan der Veranstaltung aus den Zeitangaben der Teile der Durchgänge "sessions_parts".
+Der zeiltlich Ablauf einers Durchganges ist in "[sessions_timetable]" geregelt.
 
 Um eine klare Benennung der Felder zu gewährleisten werden die umgangssprachlichen Namen der Datenbankfelder im Feld [labels] mitgeführt. Hier ist die Benennung der Felder "tiebreaker_1", "tiebreaker_2" und "tiebreaker_3" von besonderer Bedeutung. 
 
@@ -19,15 +17,19 @@ Abhängig von der Art des Wettkampfes steht
 
 ####Schlüsselfelder
 
-* event_id
+* [event_id]
 
 ####Felder
 
-* title_short
-* title
-* foreign_key_divider
+* [title_short]
+* [title]
+* [foreign_key_divider]
 * [labels]
-* championship_id
 
 [sessions]: kapitel_02_03.md
-[labels]: kapitel_07_l.md#labels
+[labels]: kapitel_07.md
+[event_id]: kapitel_07.md
+[title_short]: kapitel_07.md
+[title]: kapitel_07.md
+[foreign_key_divider]: kapitel_07.md
+[sessions_parts]:kapitel_02_04.md
