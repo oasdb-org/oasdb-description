@@ -34,3 +34,9 @@ Bezogen auf ”NOC” würde ”title” den Namen der Nation enthalten und ”t
 2|12|BSV|Bogensportverein|2|"BSV" ist im "Landesverband 2" organisiert 
 ...|...|...|...|...|
 3|1|DOSB|Deutscher Olympischer Sportbund|<null>|Event 3 ist ein internationales Turnier.
+
+[event_id]:kapitel_07_e.md#event_id
+[association_id]:kapitel_07_a.md#association_id
+[title_short]:kapitel_07_t.md#title_short
+[title]:kapitel_07_t.md#title
+[part_of]:kapitel_07_p.md#part_of
