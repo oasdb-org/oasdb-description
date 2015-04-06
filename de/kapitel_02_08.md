@@ -44,5 +44,10 @@ event_id|round_id|title_short|title|Bemerkung
 4|3|br.Fin|Bronze-Finale|Ausscheidungsrunde mit Finale
 4|4|finale|Gold-Finale|Ausscheidungsrunde mit Finale
 
-[categories_rounds]: 
-[sessions]:
+[categories_rounds]:kapitel_02_09.md
+[sessions]:kapitel_02_03.md
+
+[event_id]:kapitel_07_e.md#event_id
+[round_id]:kapitel_07_r.md#round_id
+[title_short]:kapitel_07_t.md#title_short
+[title]:kapitel_07_t.md#title
