@@ -22,10 +22,10 @@ event_id|division_id|title_short|title
 1|4|I|Instinctiv
 1|5|L|Longbow
 ..|
-2|1|R|Recurve
-2|2|CU|Compound unlimited
-2|3|CB|Compound blank
-2|3|J|Jagdbogen
+2|1|10|Recurve
+2|2|15|Compound
+2|3|16|Blankbogen
+
 
 [event_id]:kapitel_07_e.md#event_id
 [division_id]:kapitel_07_d.md#division_id
