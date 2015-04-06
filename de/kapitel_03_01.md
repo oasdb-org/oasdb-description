@@ -19,7 +19,7 @@ Bezogen auf ”NOC” würde ”title” den Namen der Nation enthalten und ”t
 
 * [title_short]
 * [title]
-* [part_of] (Verweis zu einem anderen Eintrag der Tabelle)
+* [part_of]
 
 ###Beispiele
 
