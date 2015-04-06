@@ -1,6 +1,8 @@
 ##Tabelle ”categories_distances” 
 
-In dieser Tabelle wird festgelegt welche Entfernungen und Auflagengrößen geschossen werden.
+Es wird hinterlegt in welcher Runde ([rounds]) welche Kategorie ([categories]) auf welche Entfernungen und Auflagengrößen schießt.
+
+Diese Angaben dienen sowohl zur Vorbereitung des Wettkampfes als auch für die nachträgliche Dokumentation. 
 
 ####Schlüsselfelder
 
@@ -37,3 +39,6 @@ In dieser Tabelle wird festgelegt welche Entfernungen und Auflagengrößen gesch
 [round_id]:kapitel_07.md
 [distance]:kapitel_07.md
 [face]:kapitel_07.md
+
+[rounds]:kapitel_02_08.md
+[categories]:kapitel_02_07.md
