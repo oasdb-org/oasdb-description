@@ -1,3 +1,7 @@
+##name
+*(Zeichenkette)*
+Mit den Feldern **first_name**, **middle_name**, **last_name** wird eine Person namentlich beschrieben.
+
 ##number_of_targets
 *(Ganzzahl)*
 
