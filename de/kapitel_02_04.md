@@ -12,12 +12,18 @@ Zum Beispiel
 
 Bei kleinen Wettkämpfen wird man sicher mit zwei Einträgen ”Training” und ”Wettkampf” auskommen. 
 
-**Schlüsselfelder**
+####Schlüsselfelder
 
-* event_id
-* session_id
-* session_part_id
+* [event_id]
+* [session_id]
+* [session_part_id]
 
-**Felder**
+####Felder
 
-* title
+* [title]
+
+
+[event_id]:kapitel_07_e.md#event_id
+[session_id]:kapitel_07_s.md#session_id
+[session_part_id]:kapitel_07_s.md#session_part_id
+[title]:kapitel_07_t.md#title
