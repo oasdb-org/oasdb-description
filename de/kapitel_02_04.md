@@ -17,7 +17,7 @@ Bei kleinen Wettkämpfen wird man sicher mit zwei Einträgen ”Training” und 
 ###Zum Beispiel
 
 event_id|session_id|session_part_id|title
-:------:|:--------:|:-------------:|:---:
+:------:|:--------:|:-------------:|:----
 1|1|1|08:00 Training
 1|1|2|08:45 Wettkampf - 1. Entfernung 
 1|1|3|10:00 Pause 
