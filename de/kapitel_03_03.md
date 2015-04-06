@@ -4,16 +4,26 @@ In dieser Tabelle sind die Teilnehmer an der Veranstaltung hinterlegt, egal welc
 
 Da in dieser Tabelle weder Startplätze noch Aufgaben festgelegt werden, werden alle allgemeinen persönlichen Daten aufgenommen. 
 
-**Schüsselfelder**
+####Schüsselfelder
 
-* event_id
-* participant_id
+* [event_id]
+* [participant_id]
 
-**Felder**
+####Felder
 
-* first_name
-* middle_name
-* last_name
-* gender
-* date_of_birth
-* member_of_country
+* [first_name]
+* [middle_name]
+* [last_name]
+* [gender]
+* [date_of_birth]
+* [member_of_country]
+
+
+[event_id]:kapitel_07_e.md#event_id
+[participant_id]:kapitel_07_p.md#participant_id
+[first_name]:kapitel_07_f.md
+[middle_name]:kapitel_07_m.md
+[last_name]:kapitel_07_l.md
+[gender]:kapitel_07_g.md#gender
+[date_of_birth]:kapitel_07_d.md#date_of_birth
+[member_of_country]:kapitel_07_c.md
