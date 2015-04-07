@@ -1,5 +1,8 @@
+##pair
+*(Ganzzahl)*
+
 ##participant_id
-*(numerisch)*
+*(Ganzzahl)*
 
 ##position
 *(Alphanumierisch)*
