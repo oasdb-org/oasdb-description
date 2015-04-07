@@ -10,14 +10,14 @@ Dem Teilnehmer wird nur der Eintrag mit der kleinsten Hierachiestufe zugewiesen.
 
 ####Schlüsselfelder
 
-* event_id
-* country_id
+* [event_id]
+* [country_id]
 
 ####Felder
 
-* title_short
-* title
-* part_of
+* [title_short]
+* [title]
+* [part_of]
 
 ###Beispiele
 
