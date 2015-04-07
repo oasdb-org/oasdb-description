@@ -20,7 +20,6 @@ Eine Mannschaft in einer 3D Runde besteht aus einem Compound, einem Instinktivbo
 
 ####Felder
 
-* [class_id]
 * [division_id]
 
 ###Beispiel 
