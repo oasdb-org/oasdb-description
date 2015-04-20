@@ -21,9 +21,9 @@ Die Einträge in dieser Tabelle stellen auf Datenbank-Ebene sicher, dass die Ein
 
 [event_id]|[club_team_id]|[title_short]|[title]|[association_id]|[class_id]|[division_id]|Bemerkung
 :--------:|:------------:|:-----------:|:-----:|:--------------:|:--------:|:-----------:|:------
-2|1|BSC 1|Bogensportclub Team 1|10|U|R|BSC (siehe [associations]) stellt eine gemischte Recurve
-2|2|BSC 2|Bogensportclub Team 2|10|U|C|und eine gemischte Compound-Mannschaft
-2|3|BSV|Bogensportverein|12|U|R|BSV hat nur eine Recurve-Mannschaft
+3|1|BSC 1|Bogensportclub Team 1|10|1*(U)*|1*(R)*|BSC (siehe [associations]) stellt eine gemischte Recurve
+3|2|BSC 2|Bogensportclub Team 2|10|1*(U)*|2*(C)*|und eine gemischte Compound-Mannschaft
+3|3|BSV|Bogensportverein|12|1*(U)*|1*(R)*|BSV hat nur eine Recurve-Mannschaft
 
 
 [association_id]:kapitel_07_a.md
