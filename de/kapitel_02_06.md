@@ -25,6 +25,8 @@ event_id|division_id|title_short|title
 2|1|10|Recurve
 2|2|15|Compound
 2|3|16|Blankbogen
+..|
+3|1|U|Verschiedene Bögen
 
 
 [event_id]:kapitel_07_e.md#event_id
