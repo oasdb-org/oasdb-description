@@ -32,8 +32,8 @@ Die Struktur der Datenbank lässt aber auch widersprüchliche oder sinnlose Eint
 
 [event_id]|[participant_id]|[individual_id]|[class_id]|[division_id]|Bemerkung
 :--------:|:--------------:|:-------------:|:--------:|:-----------:|:--------
-1|1|1|1**(M)**|1**(R)**|Hans Mustermann tritt als Men Recurve an
-1|1|2|1**(M)**|2**(C)**|Er nimmt mit einem weiteren Bogen am Wettkmapf teil
+1|1|1|1*(M)*|1*(R)*|Hans Mustermann tritt als Men Recurve an
+1|1|2|1*(M)*|2*(C)*|Er nimmt mit einem weiteren Bogen am Wettkmapf teil
 
 
 [event_id]:kapitel_07_e.md#event_id
