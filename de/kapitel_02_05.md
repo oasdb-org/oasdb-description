@@ -31,6 +31,8 @@ event_id|class_id|title_short|title|age_first|age_last|gender|fee|Bemerkung
 ..|
 2|1|10|Herren|21|45|M|10|DSB Schützenklassen (Herren)
 2|1|11|Damen|21|45|F|10|DSB Damenklassen
+..|
+3|1|90|Gemischte Mannschaft|21|50|U|25|Gemischte Mannschaft in Alter zwischen 21 und 50 Jahren
 
 [event_id]:kapitel_07.md
 [class_id]:kapitel_07.md
