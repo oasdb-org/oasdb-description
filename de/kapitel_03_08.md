@@ -34,9 +34,9 @@ Eine Mannschaft in einer 3D Runde besteht aus einem Compound, einem Instinktivbo
 2|2|2|<null>|Team 2 - Teilnehmer 2 
 2|2|3|<null>|Team 2 - Teilnehmer 3
 ...|
-5|1|1|C|Team 1 - Teilnehmer 1 - Compound
-5|1|2|I|Team 1 - Teilnehmer 2 - Instinktiv
-5|1|3|L|Team 1 - Teilnehmer 3 - Longbow
+3|1|1|C|Team 1 - Teilnehmer 1 - Compound
+3|1|2|I|Team 1 - Teilnehmer 2 - Instinktiv
+3|1|3|L|Team 1 - Teilnehmer 3 - Longbow
 
 [event_id]:kapitel_07_e.md
 [division_id]:kapitel_07_d.md
