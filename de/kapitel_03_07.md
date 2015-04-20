@@ -21,11 +21,11 @@ Die Mannschaften werden beschrieben (Verein, Kategorie) und die einzelnen Mitgli
 ###Beispiel
 [event_id]|[team_id]|[title_short]|[title]|[class_id]|[division_id]|Bemerkung
 :--------:|:-------:|:-----------:|:-----:|:--------:|:-----------:|:--
-2|1|BSC1|Bogensportclub|M|R|BSC stellt eine Herren-Recurve-Mannschaft 
-2|2|BSC2|Bogensportclub|W|R|und eine Damen-Recurve-Mannschaft 
-2|2|BSV|Bogensportverein|W|R|BSV nur eine Damen-Recurve-Mannschaft 
+2|1|BSC1|Bogensportclub|1*(M)*|1*(R)*|BSC stellt eine Herren-Recurve-Mannschaft 
+2|2|BSC2|Bogensportclub|2*(W)*|1*(R)*|und eine Damen-Recurve-Mannschaft 
+2|2|BSV|Bogensportverein|2*(W)*|1*(R)*|BSV nur eine Damen-Recurve-Mannschaft 
 ...|
-5|1|BSV|Bogensportverein|U|U|BSV stellt bei einem 3D-Wettkampf eine gemischte Mannschaft (Compound, Instinktiv, Longbow)
+3|1|BSV|Bogensportverein|1*(U)*|1*(U)*|BSV stellt bei einem 3D-Wettkampf eine gemischte Mannschaft (Compound, Instinktiv, Longbow)
 
 
 
