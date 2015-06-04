@@ -1,17 +1,15 @@
 #OpenArcheryScroreDatabase (oasdb) - in Bearbeitung / in process
-Ziel des Projekten ist es ein Datenmodell zu beschreiben in der Informationen gespeichert werden können die bei einem Bogensport-Wettkampf anfallen.
+Ziel des Projekte ist es ein Datenmodell zu beschreiben in der Informationen gespeichert werden können die bei einem Bogensport-Wettkampf anfallen.
 
 Es soll eine gut dokumentierte Plattform geschaffen werden, auf der Archive, Programme, ... geschaffen werden können.
 
 Die in der Beschreibung verwendeten Begriffe und die Struktur der Daten orientieren sich an der englischen Version des WorldArchery Regelwerkes [http://www.worldarchery.org/HOME/Rules/Constitution-Rules][1].
 
-Es werden einige Begriffe verwendet (z.B. "tiebreaker", "position", ...) die im täglichen Gebrauch verwendet werden, jedoch in den Regelwerken nur am Rand erwähnt werden. 
-
-Die Beschreibung entsteht vorerst in Deutsch. Ziel ist es diese Beschreibung ins Englische zu übertragen und zu pflegen.
+Wenn jemand an diesem Projekt mitarbeiten möchte oder ein Softwarelösung erstellen will, die auf diesem Datenmodell beruht, kann er/sie sich gern an mich wenden.
 
 ---
 
-The aim of the project OpenArcheryScoreDatabase (oasdb) to describe a database to save information around a archery competition.
+The aim of the project OpenArcheryScoreDatabase (oasdb) to describe a structure of database to save information around a archery competition.
 
 The idea behind is to create a free and well documented platform which programmers can use.
 
