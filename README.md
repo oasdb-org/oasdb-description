@@ -13,8 +13,6 @@ The aim of the project OpenArcheryScoreDatabase (oasdb) to describe a structure 
 
 The idea behind is to create a free and well documented platform which programmers can use.
 
-The focus is on the structure of the database and whose description.
-
 ---
 
 ##Deutsche Version der Beschreibung
