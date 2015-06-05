@@ -12,6 +12,21 @@
 * [tiebreaker_1]
 * [tiebreaker_2]
 * [tiebreaker_3]
+* [points]
+ 
+###"score" und "points"
+"[score]" bezeichnet die Ringe, welche der Teilnehmer erreicht hat, während "[points]" die Punkte meinen. 
+
+Punkte erreicht man im direkten Vergleich mit einem anderen Teilnehmer ([match]).
+
+####Anwendung von "score", "points" und "tiebreaker"
+ |720'er Runde|Finale Recurve|Finale Compound|Liga|
+:-:|:-:|:-:|:-:|:-:|
+[score]|ja|ja|ja|ja|
+[tiebreaker_1]|ja|nein|nein|nein|
+[tiebreaker_2]|ja|nein|nein|nein|
+[tiebreaker_3]|nein|ja|ja|ja|
+[points]|nein|ja|nein|ja|
 
 ###Beispiele "Feldbogen - Gleiche Ringzahl - 6'er entscheiden"
 *(tiebreaker_1: "5'er+6'er" / tiebreaker_2: "6'er" / tiebreaker_3: "Stechen oder Los")*
@@ -78,6 +93,8 @@ event_id|session_id|round_id|participant_id|individual_id|score|tiebreaker_1|tie
 [participant_id]:kapitel_07.md
 [individual_id]:kapitel_07.md
 [score]:kapitel_07.md
+[points]:kapitel_07.md
+[match]:kapitel_07.md
 [tiebreaker_1]:kapitel_07.md
 [tiebreaker_2]:kapitel_07.md
 [tiebreaker_3]:kapitel_07.md
