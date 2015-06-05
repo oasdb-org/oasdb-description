@@ -1,4 +1,4 @@
-##Tabelle ”results_individuals”
+##Tabelle ”results_rounds_individuals”
 
 ####Schlüsselfelder
 * [event_id]
