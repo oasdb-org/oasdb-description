@@ -1,5 +1,13 @@
+##score
+*Numerisches Feld*
+
+Das Feld beinhaltet die Ringwertung. 
+
+Es gibt ein anderes Feld "points" welche für die Punktwertung eingerichtet wurde.
+
 ##session_id
-Numerisches Feld
+*Numerisches Feld*
+
 ##session_type
 *(Vorgegebene Werte aus drei Buchstaben)*
 * 1.Buchstabe **I**ndividual / **T**eam
@@ -17,4 +25,4 @@ Daraus folgen diese Kombinationen
 * **"TMP"** Team Match Punktwertung (z.B. Ausscheidungsrunde Recurve, Liga)
 
 ##starter_per_target
-Numerisches Feld
+*Numerisches Feld*
