@@ -88,11 +88,13 @@
 
 [participant_id]: kapitel_07_p.md#participant_id
 [part_of]: kapitel_07_p.md#part_of
+[points]: kapitel_07_p.md#points
 
 [round_id]: kapitel_07_r.md#round_id
 
 [session_id]: kapitel_07_s.md#session_id
 [starter_per_target]: kapitel_07_s.md#starter_per_target
+[score]: kapitel_07_s.md#score
 
 [tiebreaker_1]:  kapitel_07_t.md#tiebreaker
 [tiebreaker_2]:  kapitel_07_t.md#tiebreaker
