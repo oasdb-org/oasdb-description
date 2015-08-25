@@ -25,6 +25,11 @@ Abhängig von der Art des Wettkampfes steht
 * [title]
 * [foreign_key_divider]
 * [labels]
+* [organizer]
+* [rules]
+* [currency]
+* [timestamp_created]
+* [timestamp_modified]
 
 [sessions]: kapitel_02_03.md
 [labels]: kapitel_07.md
