@@ -28,6 +28,7 @@ Abhängig von der Art des Wettkampfes steht
 * [organizer]
 * [rules]
 * [currency]
+* [registration_until]
 * [timestamp_created]
 * [timestamp_modified]
 
@@ -38,3 +39,4 @@ Abhängig von der Art des Wettkampfes steht
 [title]: kapitel_07.md
 [foreign_key_divider]: kapitel_07.md
 [sessions_parts]:kapitel_02_04.md
+[registration_until]:kapitel_07_r.md#registration_until
