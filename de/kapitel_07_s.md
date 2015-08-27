@@ -24,5 +24,8 @@ Daraus folgen diese Kombinationen
 * **"TMR"** Team Match Ringwertung ()
 * **"TMP"** Team Match Punktwertung (z.B. Ausscheidungsrunde Recurve, Liga)
 
+##session_part
+*Datum mit Uhrzeit*
+
 ##starter_per_target
 *Numerisches Feld*
