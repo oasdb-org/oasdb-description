@@ -12,11 +12,11 @@ Bei kleinen Wettkämpfen wird man sicher mit zwei Einträgen ”Training” und 
 
 ####Felder
 
-* [title]
+* [subject]
 
 ###Zum Beispiel
 
-event_id|session_id|session_part|title
+event_id|session_id|session_part|subject
 :------:|:--------:|:-------------:|:----
 1|1|2015-01-01 08:00:00|Training Erster Durchgang
 1|1|2015-01-01 08:45:00|Wettkampf - 1. Entfernung 
@@ -30,4 +30,4 @@ event_id|session_id|session_part|title
 [event_id]:kapitel_07_e.md#event_id
 [session_id]:kapitel_07_s.md#session_id
 [session_part]:kapitel_07_s.md#session_part
-[title]:kapitel_07_t.md#title
+[subject]:kapitel_07_s.md#subject
