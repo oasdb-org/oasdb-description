@@ -15,12 +15,12 @@ So ist es möglich Texte und Bilder zu hinterlegen.
 
 **Felder**
 
-* [title_short]
+* [subject]
 * [content_type]
 * [content]
 
 ###Beispiel
-event_id|information_id|title_short|content_type|content
+event_id|information_id|subject|content_type|content
 :------:|:------------:|:---------:|:----------:|:------
 1|1|logo_01|image/jpeg|*Ein Bild*
 1|2|anmerkungen|text/plain|Stargeld ist Reugeld. Sauberes Schuhwerk, ...
@@ -28,6 +28,6 @@ event_id|information_id|title_short|content_type|content
 
 [event_id]:kapitel_07_e.md#event_id
 [information_id]:kapitel_07_i.md#information_id
-[title_short]:kapitel_07_t.md#title_short
+[subject]:kapitel_07_s.md#subject
 [content_type]:kapitel_07_c.md#content_type
 [content]:kapitel_07_c.md#content
