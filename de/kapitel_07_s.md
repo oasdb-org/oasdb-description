@@ -29,3 +29,10 @@ Daraus folgen diese Kombinationen
 
 ##starter_per_target
 *Numerisches Feld*
+
+##subject
+*Textzeile rund 30 Zeichen*
+
+"subject" ist in der Regeln kein eigenständiger Inhalt sondern klassifiziert/beschreibt den weiteren Inhalt des Datensatzes.
+
+Im Gegensatz dazu beinhalten die Felder "title_short" und "title" eigenständige Inhalte.
