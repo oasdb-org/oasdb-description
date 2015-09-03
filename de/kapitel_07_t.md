@@ -8,15 +8,16 @@ Am Beispiel Hallen-Runde-Qualifikation kann das sein:
 * **tiebraker_02**: Anzahl der 9'er
 * **tiebraker_03**: Ergebnis von Los oder Stechen *(z.B. für die Plazierung im Finale oder die Entscheidung eines Matches bei Gleichstand zum letzten Satz)*
 
-##title
+## title
 *(Variables Textfeld)*
 
 Beinhaltet ausgeschriebene Textinformationen, in der Regel Titel.
+"title" und  ist in der Regeln kein eigenständiger Inhalt sondern klassifiziert/beschreibt den weiteren Inhalt des Datensatzes.
 
-## title-short
-*(Variables Textfeld - Längenbegrenzung)*
+## title_short
+*(Variables Textfeld - max 10 Zeichen)*
 
-Kurzes Textfeld; In der Regel maximal 20 Zeichen.
+"title_short" beinhaltet die Kurzform von "title". Das Feld steht nie allein sondern immer in Kombination mit "title".
 
 
 [tie-break wiki]: http://de.m.wikipedia.org/wiki/Tie-Break
