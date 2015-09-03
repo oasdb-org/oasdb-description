@@ -5,7 +5,7 @@ Das Feld "label" beinhaltet eine Bezeichnung. In der Regel ist "label" die Haupt
 
 Im Gegensatz dazu beinhaltet "title" eine Überschrift. Im gleichen und/oder untergeordneten Datensätzen folgen Informationen, die sich auf diese Überschrift beziehen.
 
-##label_sort
+##label_short
 *einzeiliger Text - max 10 Zeichen*
 
 Kurzform von "lable".
