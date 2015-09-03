@@ -12,13 +12,12 @@ Das Feld enthält die umgangssprachlichen Bezeichnungen der Datenbankfelder. Die
 
 Die Bezeichnungen der in der Datenbank verwendeten Felder können auch als XML-Tag verwendet werden. 
 
-Über das Attribut "lang" ist es möglich mehrere Sprachen zu hinterlegen.
+Über das Attribut "lang" ist es möglich mehrere Sprachen zu hinterlegen. Im Attribut "version" wird ausgesagt ob es sich um die Kurzversion handelt.
 
 <pre><code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;labels&gt;
-	&lt;<i>name des feldes</i> lang=&quot;<i>sprache</i> [de|en|...]&quot;&gt;
-		&lt;long&gt;[lange Bezeichnung für das Feld]&lt;/long&gt;
-		&lt;short&gt;[kurze Bezeichnung für das Feld]&lt;/short&gt;
+	&lt;<i>name des feldes</i> lang=&quot;<i>sprache</i> [de|en|...]&quot; version=&quot;[short]&quot;&gt;
+		Bezeichnung für das Feld
 	&lt;/<i>name des feldes</i>&gt;
 	...
 &lt;/labels&gt;</code></pre>
