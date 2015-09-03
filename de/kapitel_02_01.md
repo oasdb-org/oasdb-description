@@ -24,19 +24,18 @@ Abhängig von der Art des Wettkampfes steht
 * [title_short]
 * [title]
 * [foreign_key_divider]
-* [labels]
+* [frontend_labels]
 * [organizer]
 * [rules]
-* [currency]
 * [registration_until]
 * [timestamp_created]
 * [timestamp_modified]
 
 [sessions]: kapitel_02_03.md
-[labels]: kapitel_07.md
-[event_id]: kapitel_07.md
-[title_short]: kapitel_07.md
-[title]: kapitel_07.md
-[foreign_key_divider]: kapitel_07.md
+[frontend_labels]: kapitel_07_f.md#frontend_labels
+[event_id]: kapitel_07_e.md#event_id
+[title_short]: kapitel_07_t.md#title
+[title]: kapitel_07_t.md#title
+[foreign_key_divider]: kapitel_07_f.md
 [sessions_parts]:kapitel_02_04.md
 [registration_until]:kapitel_07_r.md#registration_until
