@@ -8,7 +8,7 @@ Feld enthält nur ein Zeichen. Werden externe Schlüsselfelder importiert, so is
 ## frontend_labels
 *(Blob - text/xml)*
 
-Das Feld enthält die Bezeichnungen der Datenbankfelder in einer XML-Struktur. Das Attribut "encoding" ist in jedem Fall mit zu führen um zu gewährleisten, dass Umlaute korrekt ausgelesen werden.
+Das Feld enthält die umgangssprachlichen Bezeichnungen der Datenbankfelder. Die Bezeichnungen sind in einer XML-Struktur abgelegt. Das Attribut "encoding" ist in jedem Fall mit zu führen um zu gewährleisten, dass Umlaute korrekt ausgelesen werden.
 
 Die Bezeichnungen der in der Datenbank verwendeten Felder können auch als XML-Tag verwendet werden. 
 
