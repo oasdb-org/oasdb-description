@@ -9,8 +9,8 @@ Diese Tabelle beinhaltet alle Altersklassen, in Kombination mit dem Geschlecht, 
 
 ####Felder
 
-* [title_short]
-* [title]
+* [label_short]
+* [label]
 * [age_first]
 * [age_last]
 * [gender]
@@ -22,7 +22,7 @@ Einschränkungen
 
 ###Beispiel
 
-event_id|class_id|title_short|title|age_first|age_last|gender|fee|Bemerkung
+event_id|class_id|label_short|label|age_first|age_last|gender|fee|Bemerkung
 :------:|:------:|:---------:|:---:|:-------:|:------:|:----:|:-:|:---
 1|1|M|Men|21|49|M|15.00|International Herren 
 1|2|W|Women|21|49|F|15.00|International Frauen
@@ -36,8 +36,8 @@ event_id|class_id|title_short|title|age_first|age_last|gender|fee|Bemerkung
 
 [event_id]:kapitel_07.md
 [class_id]:kapitel_07.md
-[title_short]:kapitel_07.md
-[title]:kapitel_07.md
+[label_short]:kapitel_07_l.md#label_short
+[label]:kapitel_07_l.md#label
 [age_first]:kapitel_07.md
 [age_last]:kapitel_07.md
 [gender]:kapitel_07.md
