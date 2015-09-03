@@ -1,3 +1,15 @@
+##label
+*einzeilger Text*
+
+Das Feld "label" beinhaltet eine Bezeichnung. In der Regel ist "label" die Hauptinformation in dem Datensatz.
+
+Im Gegensatz dazu beinhaltet "title" eine Überschrift. Im gleichen und/oder untergeordneten Datensätzen folgen Informationen, die sich auf diese Überschrift beziehen.
+
+##label_sort
+*einzeiliger Text - max 10 Zeichen*
+
+Kurzform von "lable".
+
 ##labels
 *(Blob - text/xml)*
 
