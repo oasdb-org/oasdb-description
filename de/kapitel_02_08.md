@@ -21,12 +21,12 @@ Die Festlegung der tatsächlichen Entferungen und Scheibenauflagen geschieht in 
 
 ####Felder
 
-* [title_short]
-* [title]
+* [label_short]
+* [label]
 
 ###Beispiel
 
-event_id|round_id|title_short|title|Bemerkung
+event_id|round_id|label_short|label|Bemerkung
 :------:|:------:|:---------:|:----|:--------
 1|1|1|Runde 1|720' Runde 1
 1|2|2|Runde 2|720' Runde 2
@@ -49,5 +49,5 @@ event_id|round_id|title_short|title|Bemerkung
 
 [event_id]:kapitel_07_e.md#event_id
 [round_id]:kapitel_07_r.md#round_id
-[title_short]:kapitel_07_t.md#title_short
-[title]:kapitel_07_t.md#title
+[label_short]:kapitel_07_l.md#label_short
+[label]:kapitel_07_l.md#label
