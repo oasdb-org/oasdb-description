@@ -9,12 +9,12 @@ Diese Tabelle enthält alle Bogenarten die bei diesem Wettkampf antreten.
 
 ####Felder
 
-* [title_short]
-* [title]
+* [label_short]
+* [label]
 
 
 ###Beispiel
-event_id|division_id|title_short|title
+event_id|division_id|label_short|label
 :------:|:---------:|:---------:|:----
 1|1|R|Recurve
 1|2|C|Compound
@@ -31,5 +31,5 @@ event_id|division_id|title_short|title
 
 [event_id]:kapitel_07_e.md#event_id
 [division_id]:kapitel_07_d.md#division_id
-[title_short]:kapitel_07_t.md#title_short
-[title]:kapitel_07_t.md#title
+[label_short]:kapitel_07_l.md#label_short
+[label]:kapitel_07_l.md#label
