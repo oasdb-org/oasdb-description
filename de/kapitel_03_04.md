@@ -27,6 +27,7 @@ Die Struktur der Datenbank lässt aber auch widersprüchliche oder sinnlose Eint
 
 * [class_id]
 * [division_id]
+* [member_of_accociation]
 
 ###Beispiel
 
@@ -42,3 +43,4 @@ Die Struktur der Datenbank lässt aber auch widersprüchliche oder sinnlose Eint
 [class_id]:kapitel_07_c.md#class_id
 [division_id]:kapitel_07_d.md#division_id
 [participants]:kapitel_03_03.md
+[member_of_accociation]:kapitel_07_a.md#accociation
