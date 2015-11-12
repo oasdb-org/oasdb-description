@@ -6,9 +6,13 @@ Das Feld [round_id] wird mit geführt. So besteht die Möglichkeit zu planen und
 
 Das Feld [pair] kommt nur bei Match-Runden zum Einsatz.
 
-Im nächsten und letzten Schritt werden die Ergebnisse pro Starter eingetragen. Es werden nur für die Starter Ergebnisse erfasst, die auch einen Startplatz haben.
+Die Tabelle stellt in den Schlüsselfeldern die Startplätze bereit, denen die Starter zugeordnet werden. Über die Schlüsselfelder ist sichergestellt, dass ein Startplatz nur ein im Durchgang (und Runde) vergeben werden kann.
 
-Diese Herangehensweise sellt sicher, dass nur für gültige Starter ein Ergebnis erfasst werden kann. 
+Beispiel
+
+> Ein Starter meldet sich mit einem Compound und einem Recurve an. Ihm werden die Startplätze 2A und 2D zugewiesen. Er schießt den Recurve auf 2A und den Compound auf 2D.
+
+> *Zugegeben:* Für die anderen Scheibenpartner und den Kampfrichter ist dies eine besondere Herausforderung zu beobachten ob der Starter immer den richtigen Bogen nutzt.
 
 ####Schlüsselfelder
 * [event_id]
